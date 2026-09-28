@@ -1,7 +1,5 @@
 # planner-distillation-slm
 
-Code, data and per-problem results for **"Collapsing a Guided Reasoning
-Pipeline into a Single Small Language Model"**.
 
 Two findings. Solution guidance helps general-purpose executors at every scale
 we tested and does nothing measurable for a mathematically specialised executor
