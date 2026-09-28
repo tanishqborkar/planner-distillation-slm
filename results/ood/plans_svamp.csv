@@ -1,0 +1,567 @@
+idx,plan,format_ok,ops_valid,has_math
+0,Step 1 [SUBTRACT]: Determine the difference between the number of bird families that flew to Africa and those that flew to Asia.,True,True,False
+1,"Step 1 [ADD]: Determine the initial total number of fish in the pond.
+Step 2 [SUBTRACT]: Determine the number of fish that disappeared by comparing the initial total to the remaining fish.",True,True,False
+2,"Step 1 [ADD]: Determine the combined weight of Marco's and his dad's strawberries before finding the additional strawberries.
+Step 2 [SUBTRACT]: Determine the weight of Marco's strawberries after finding the additional strawberries.
+Step 3 [SUBTRACT]: Determine the weight of Marco's dad's strawberries after finding the additional strawberries.",True,True,False
+3,Step 1 [DIVIDE]: Determine the duration the soda bottles will last by dividing the total number of soda bottles by the daily consumption rate.,True,True,False
+4,"Step 1 [SUBTRACT]: Determine the total amount spent at both the supermarket and the showroom by subtracting the remaining money from the initial amount in the wallet.
+Step 2 [SUBTRACT]: Determine the amount spent at the supermarket by subtracting the known amount spent at the showroom from the total amount spent.",True,True,False
+5,Step 1 [MULTIPLY]: Determine the total number of pencils by multiplying the number of rows by the number of pencils per row.,True,True,False
+6,"Step 1 [SUBTRACT]: Determine the initial number of marbles Doug had before losing any.
+Step 2 [SUBTRACT]: Determine the final number of marbles Doug has after losing some.
+Step 3 [SUBTRACT]: Determine the difference in the number of marbles between Ed and Doug after the loss.",True,True,False
+7,Step 1 [ADD]: Determine the total number of children on the bus after the additional children got on.,True,True,False
+8,"Step 1 [ADD]: Determine the total number of cookies baked yesterday and the day before yesterday.
+Step 2 [ADD]: Determine the total number of cookies baked by adding the morning batch to the previous total.",True,True,False
+9,"Step 1 [MULTIPLY]: Determine the total number of oranges harvested per day.
+Step 2 [MULTIPLY]: Determine the total number of oranges harvested over the specified number of days.",True,True,False
+10,Step 1 [DIVIDE]: Determine the total number of minutes the machine worked yesterday by dividing the number of shirts produced by the production rate per minute.,True,True,False
+11,Step 1 [MULTIPLY]: Determine the total number of magazines by multiplying the number of magazines per bookshelf by the total number of bookshelves.,True,True,False
+12,Step 1 [SUBTRACT]: Determine the number of apps added by comparing the final count to the initial count.,True,True,False
+13,"Step 1 [ADD]: Determine the total amount spent on the candy bar and chocolate.
+Step 2 [SUBTRACT]: Determine the remaining money after the purchase.",True,True,False
+14,Step 1 [DIVIDE]: Determine the size of each group by dividing the total number of bananas by the number of groups.,True,True,False
+15,"Step 1 [SUBTRACT]: Determine the remaining distance to the end of the cave by subtracting the current depth from the total depth of the cave.
+Step 2 [DIVIDE]: Determine the total time required to reach the end of the cave by dividing the remaining distance by the given speed.",True,True,False
+16,Step 1 [DIVIDE]: Determine the number of people that can ride the Ferris wheel at the same time by dividing the total capacity by the number of seats.,True,True,False
+17,"Step 1 [SUBTRACT]: Determine the remaining number of tomatoes after the farmer picks some.
+Step 2 [ADD]: Combine the remaining tomatoes with the total number of potatoes to find the total remaining produce.",True,True,False
+18,"Step 1 [ADD]: Determine the initial number of bottle caps Danny had before losing any.
+Step 2 [ADD]: Determine the total number of bottle caps Danny has after losing some.",True,True,False
+19,Step 1 [ADD]: Determine the total number of emails received in the afternoon and evening by combining the afternoon emails and the evening emails.,True,True,False
+20,"Step 1 [SUBTRACT]: Determine the remaining quantity of sweet cookies after Paco ate some.
+Step 2 [SUBTRACT]: Determine the remaining quantity of salty cookies after Paco ate some.
+Step 3 [SUBTRACT]: Determine the total number of cookies Paco had left by combining the remaining sweet and salty cookies.",True,True,False
+21,Step 1 [DIVIDE]: Determine the daily earnings by distributing the total earnings across the number of days.,True,True,False
+22,"Step 1 [SUBTRACT]: Determine the number of files deleted by comparing the initial count of files to the remaining files after deletion.
+Step 2 [SUBTRACT]: Determine the number of apps deleted by comparing the initial count of apps to the remaining apps after deletion.",True,True,False
+23,Step 1 [SUBTRACT]: Determine the difference between the number of girls and the number of boys in the school.,True,True,False
+24,Step 1 [MULTIPLY]: Determine the total number of eggs by multiplying the number of groups by the number of eggs in each group.,True,True,False
+25,Step 1 [SUBTRACT]: Determine the remaining amount of sugar needed by subtracting the amount already added from the total required amount.,True,True,False
+26,"Step 1 [ADD]: Determine the total number of apps on the phone after adding the new apps.
+Step 2 [SUBTRACT]: Determine the number of apps Dave deleted from his phone.
+Step 3 [SUBTRACT]: Determine how many more apps were added than deleted.",True,True,False
+27,Step 1 [SUBTRACT]: Determine the difference between the number of kids who stayed home and the number of kids who went to camp.,True,True,False
+28,"Step 1 [ADD]: Determine the distance the grasshopper jumped by combining its initial jump length with the additional distance it jumped.
+Step 2 [SUBTRACT]: Determine the distance the frog jumped by removing the grasshopper's total jump length from the grasshopper's jump length.",True,True,False
+29,"Step 1 [ADD]: Determine the total number of balloons brought by Allan and Jake.
+Step 2 [ADD]: Determine the total number of balls brought by Allan and Jake.
+Step 3 [ADD]: Determine the total number of items (balloons and balls) brought to the park.",True,True,False
+30,Step 1 [DIVIDE]: Determine the number of days required to harvest the total number of sacks of oranges by dividing the total sacks by the daily harvest rate.,True,True,False
+31,"Step 1 [MULTIPLY]: Determine the total hours spent learning English per day.
+Step 2 [MULTIPLY]: Determine the total hours spent learning English over the entire duration.",True,True,False
+32,"Step 1 [ADD]: Determine the total number of cakes made by adding the initial batch to the subsequent batch.
+Step 2 [SUBTRACT]: Determine the difference between the total number of cakes made and the number of cakes sold.",True,True,False
+33,"Step 1 [ADD]: Determine the total number of people on the bus after the additional individuals board.
+Step 2 [COMPARE]: Determine if the total exceeds the bus capacity.
+Step 3 [SUBTRACT]: Determine the number of people who need to disembark to maintain the bus capacity.",True,True,False
+34,"Step 1 [ADD]: Determine the total number of balloons brought to the park by combining the initial balloons brought by Allan and Jake.
+Step 2 [ADD]: Determine the total number of balloons Jake brought to the park by combining the initial balloons brought by Jake and the additional balloons purchased at the park.",True,True,False
+35,Step 1 [MULTIPLY]: Determine the total number of shirts produced by the machine based on the given rate and duration.,True,True,False
+36,"Step 1 [ADD]: Determine the total number of cookies Paco had initially.
+Step 2 [SUBTRACT]: Determine the number of salty cookies Paco had left after eating some.",True,True,False
+37,"Step 1 [ADD]: Determine the total number of pages by combining the lengths of the first and second chapters.
+Step 2 [ADD]: Determine the total number of pages in the book by combining the result from the previous step with the length of the third chapter.",True,True,False
+38,Step 1 [SUBTRACT]: Determine the number of children who were riding on the bus before the bus stop by removing the additional children who got on at the stop from the total number of children.,True,True,False
+39,"Step 1 [ADD]: Determine the total number of eggs by combining the given quantity of eggs with the quantity of marbles.
+Step 2 [DIVIDE]: Distribute the total number of eggs equally among the specified number of groups.",True,True,False
+40,Step 1 [SUBTRACT]: Determine the number of bottle caps found at the park by subtracting the previous collection size from the current collection size.,True,True,False
+41,"Step 1 [ADD]: Determine the total number of kids Julia played with on Monday and Tuesday.
+Step 2 [ADD]: Determine the total number of kids Julia played with on Monday, Tuesday, and Wednesday.
+Step 3 [SUBTRACT]: Determine the number of kids Julia played with on Monday and Tuesday by removing the Wednesday count from the total.",True,True,False
+42,Step 1 [DIVIDE]: Determine the number of boys by dividing the total number of marbles Haley has by the number of marbles given to each boy.,True,True,False
+43,"Step 1 [MULTIPLY]: Determine the depth of the water based on Dean's height.
+Step 2 [SUBTRACT]: Calculate the difference between the water depth and Dean's height.",True,True,False
+44,Step 1 [SUBTRACT]: Determine the difference in page count between the first chapter and the second chapter.,True,True,False
+45,Step 1 [SUBTRACT]: Determine the difference between the number of visitors on the current day and the number of visitors on the previous day.,True,True,False
+46,Step 1 [DIVIDE]: Determine the cost of each t-shirt by dividing the total earnings by the number of t-shirts sold.,True,True,False
+47,"Step 1 [ADD]: Determine the total number of emails received in the morning and evening.
+Step 2 [ADD]: Determine the total number of emails received throughout the entire day.
+Step 3 [SUBTRACT]: Determine the number of emails received in the afternoon by subtracting the total emails received in the morning and evening from the total emails received throughout the day.",True,True,False
+48,Step 1 [SUBTRACT]: Determine the number of kids who go to camp by subtracting the number of kids who stay home from the total number of kids.,True,True,False
+49,"Step 1 [SUBTRACT]: Determine the distance the frog jumped by subtracting the difference from the grasshopper's jump.
+Step 2 [ADD]: Determine the total distance both the grasshopper and the frog jumped by combining their individual distances.",True,True,False
+50,"Step 1 [ADD]: Determine the total number of bird families living near the mountain by combining the original families with the new families that arrived.
+Step 2 [SUBTRACT]: Determine the final number of bird families remaining near the mountain by removing the families that flew away further south.",True,True,False
+51,"Step 1 [MULTIPLY]: Determine the total number of action figures that can be placed on all shelves.
+Step 2 [MULTIPLY]: Determine the total number of cabinets that can be placed on all shelves.
+Step 3 [ADD]: Combine the total number of action figures and cabinets to find the overall capacity of the shelves.",True,True,False
+52,"Step 1 [SUBTRACT]: Determine the length of Robin's hair after the initial haircut.
+Step 2 [ADD]: Determine the final length of Robin's hair after it regrows.",True,True,False
+53,"Step 1 [ADD]: Determine the total number of games owned by the friends.
+Step 2 [SUBTRACT]: Determine the difference between the total number of games owned by Katie and the total number of games owned by her friends.",True,True,False
+54,Step 1 [SUBTRACT]: Determine the difference between the number of packs of cookie and the number of packs of cake.,True,True,False
+55,"Step 1 [ADD]: Determine the total number of red and green peaches in the basket.
+Step 2 [ADD]: Determine the total number of peaches in the basket by combining the red, yellow, and green peaches.",True,True,False
+56,"Step 1 [SUBTRACT]: Determine the remaining amount of flour needed to reach the total required.
+Step 2 [SUBTRACT]: Determine the difference between the remaining flour and the sugar required.",True,True,False
+57,"Step 1 [SUBTRACT]: Determine the number of cookies Paco ate.
+Step 2 [SUBTRACT]: Determine the difference between the number of cookies eaten and the number given to his friend.",True,True,False
+58,"Step 1 [ADD]: Determine the total number of students by combining the number of girls and the number of boys.
+Step 2 [ADD]: Determine the total number of people in the school by combining the total number of students and the number of teachers.",True,True,False
+59,"Step 1 [ADD]: Determine the total number of peaches in a single basket.
+Step 2 [DIVIDE]: Determine the total number of baskets by dividing the total number of peaches by the number of peaches in each basket.",True,True,False
+60,Step 1 [ADD]: Determine Jessie's initial weight by combining her current weight with the weight she lost during jogging.,True,True,False
+61,"Step 1 [SUBTRACT]: Determine the number of push-ups Zachary did by finding the difference between David's total and the additional push-ups he did compared to Zachary.
+Step 2 [ADD]: Determine the total number of push-ups Zachary and David did together by combining their individual totals.",True,True,False
+62,"Step 1 [ADD]: Determine the total number of girls in the school after the new students join.
+Step 2 [SUBTRACT]: Determine the difference between the total number of girls and the total number of boys in the school.",True,True,False
+63,"Step 1 [ADD]: Determine the total number of marbles Josh has after finding the additional marbles.
+Step 2 [SUBTRACT]: Determine the final number of marbles Josh has after accounting for the lost marbles.",True,True,False
+64,"Step 1 [SUBTRACT]: Determine the difference between the number of visitors on the current day and the previous day.
+Step 2 [COMPARE]: Determine how many more visitors visited the Buckingham palace on the current day compared to the previous day.",True,True,False
+65,"Step 1 [SUBTRACT]: Determine the number of baseball cards Nell gave to Jeff.
+Step 2 [ADD]: Determine the total number of baseball cards Jeff has after receiving the additional cards.",True,True,False
+66,Step 1 [SUBTRACT]: Determine the number of blocks remaining after building the tower.,True,True,False
+67,Step 1 [ADD]: Determine the total number of people on the train after the additional passengers board.,True,True,False
+68,"Step 1 [MULTIPLY]: Calculate the total number of apples picked from all the trees.
+Step 2 [ADD]: Determine the initial total number of apples on all the trees by combining the picked apples and the remaining apples.",True,True,False
+69,Step 1 [SUBTRACT]: Determine the number of children who got off the bus by finding the difference between the initial number of children and the number remaining on the bus.,True,True,False
+70,Step 1 [SUBTRACT]: Determine the difference between the number of green peaches and the number of red peaches in the basket.,True,True,False
+71,"Step 1 [SUBTRACT]: Determine the initial number of baseball cards Nell had before giving any away.
+Step 2 [SUBTRACT]: Determine the initial number of Ace cards Nell had before giving any away.
+Step 3 [SUBTRACT]: Determine the number of baseball cards Nell gave to Jeff.
+Step 4 [SUBTRACT]: Determine the number of Ace cards Nell gave to Jeff.
+Step 5 [SUBTRACT]: Determine the difference between the remaining Ace cards and the remaining baseball cards.",True,True,False
+72,Step 1 [SUBTRACT]: Determine the final price of each pack of dvds after applying the discount.,True,True,False
+73,"Step 1 [MULTIPLY]: Determine the total number of chairs by multiplying the number of table sets by the chairs per set.
+Step 2 [MULTIPLY]: Determine the total number of tables by multiplying the number of table sets by the number of tables per set.
+Step 3 [SUBTRACT]: Determine the difference between the total number of chairs and the total number of tables.",True,True,False
+74,"Step 1 [ADD]: Determine the total amount of wax required for the feathers by combining the specified amount of wax and the additional wax needed.
+Step 2 [SUBTRACT]: Determine the amount of wax already available by subtracting the total wax required from the total amount of wax needed.",True,True,False
+75,"Step 1 [MULTIPLY]: Determine the total number of pages in the book by combining the pages from each chapter.
+Step 2 [DIVIDE]: Determine the number of chapters Frank read per day by dividing the total number of pages by the total number of days.",True,True,False
+76,"Step 1 [ADD]: Determine the total number of books on the shelf after adding the new books.
+Step 2 [SUBTRACT]: Determine the difference between the total number of books and the number of action figures on the shelf.",True,True,False
+77,Step 1 [ADD]: Determine the total number of crayons Paul had initially by combining the remaining crayons with those lost or given away.,True,True,False
+78,"Step 1 [ADD]: Determine the total number of students who suggested adding mashed potatoes and bacon to the menu.
+Step 2 [ADD]: Determine the total number of students who suggested adding tomatoes to the menu.
+Step 3 [ADD]: Determine the total number of students who participated in the suggestion of new food items.",True,True,False
+79,Step 1 [MULTIPLY]: Determine the total number of pages in the book by multiplying the number of chapters by the number of pages per chapter.,True,True,False
+80,"Step 1 [MULTIPLY]: Determine the total number of students in the school.
+Step 2 [DIVIDE]: Determine the number of buses required to transport all the students.",True,True,False
+81,"Step 1 [ADD]: Determine the total number of pieces of candy consumed by adding the initial amount to the additional amount.
+Step 2 [ADD]: Determine the total number of pieces of candy and chocolate consumed by combining the total candy amount with the chocolate amount.",True,True,False
+82,"Step 1 [ADD]: Determine the total number of cookies Paco gave away and ate.
+Step 2 [SUBTRACT]: Determine the number of cookies Paco had left by subtracting the total given away and eaten from the initial amount.",True,True,False
+83,Step 1 [SUBTRACT]: Determine the number of goldfish remaining after accounting for those eaten by the cats.,True,True,False
+84,"Step 1 [SUBTRACT]: Determine the number of kids who went to camp by subtracting the number of kids who stayed home from the total number of kids in the county.
+Step 2 [ROUND]: Estimate the number of kids who went to camp by rounding the result to the nearest thousand.",True,False,False
+85,"Step 1 [SUBTRACT]: Determine the number of children who got on the bus at the stop.
+Step 2 [SUBTRACT]: Determine the difference between the current number of children on the bus and the number before the stop.",True,True,False
+86,"Step 1 [ADD]: Determine the total number of birds sitting on the fence after the additional birds arrive.
+Step 2 [ADD]: Determine the total number of birds and storks sitting on the fence after the additional storks arrive.
+Step 3 [SUBTRACT]: Determine the difference between the total number of storks and the total number of birds sitting on the fence.",True,True,False
+87,"Step 1 [MULTIPLY]: Determine the total capacity of the Ferris wheel by multiplying the number of seats by the capacity per seat.
+Step 2 [SUBTRACT]: Determine the number of additional people who can join the Ferris wheel by subtracting the current number of people from the total capacity.",True,True,False
+88,"Step 1 [SUBTRACT]: Determine the net number of sacks harvested per day by subtracting the discarded sacks from the daily harvest.
+Step 2 [MULTIPLY]: Calculate the total number of sacks of oranges after the specified number of harvest days.",True,True,False
+89,"Step 1 [MULTIPLY]: Calculate the total revenue generated from the t-shirts sold.
+Step 2 [MULTIPLY]: Calculate the total revenue generated from the jerseys sold.
+Step 3 [SUBTRACT]: Determine the difference in revenue between the jerseys and the t-shirts.
+Step 4 [DIVIDE]: Calculate the difference in cost per item by dividing the revenue difference by the quantity sold.",True,True,False
+90,"Step 1 [SUBTRACT]: Determine the amount of wax needed by subtracting the remaining amount from the total required.
+Step 2 [SUBTRACT]: Determine the amount of wax he already has by subtracting the wax needed from the total amount of wax he currently possesses.",True,True,False
+91,"Step 1 [SUBTRACT]: Determine the number of books Paul sold during the garage sale.
+Step 2 [SUBTRACT]: Determine the difference between the number of books bought and the number of books sold.",True,True,False
+92,Step 1 [SUBTRACT]: Determine the difference between the number of kids Julia played with on Monday and the number of kids she played with on Tuesday.,True,True,False
+93,Step 1 [ADD]: Determine the total number of peaches in each basket by combining the red and green peaches.,True,True,False
+94,"Step 1 [DIVIDE]: Determine the number of cookies per bag by dividing the total number of cookies by the total number of bags.
+Step 2 [ADD]: Determine the total number of items by combining the total number of cookies and candies.
+Step 3 [DIVIDE]: Determine the number of bags of cookies by dividing the total number of items by the number of cookies per bag.",True,True,False
+95,"Step 1 [MULTIPLY]: Determine the total number of invitations included in the purchased packages.
+Step 2 [ADD]: Determine the total number of invitations by combining the invitations from the packages and the additional invitations.
+Step 3 [DIVIDE]: Determine the total number of friends Carol can invite by dividing the total invitations by the invitations per friend.",True,True,False
+96,Step 1 [SUBTRACT]: Determine the remaining number of cakes by subtracting the quantity purchased by the friend from the total number of cakes made.,True,True,False
+97,Step 1 [SUBTRACT]: Determine the difference between the number of diet soda bottles and regular soda bottles.,True,True,False
+98,"Step 1 [ADD]: Determine the total number of soda bottles by combining the regular soda and diet soda quantities.
+Step 2 [SUBTRACT]: Determine the difference between the total number of soda bottles and the number of apples.",True,True,False
+99,"Step 1 [MULTIPLY]: Determine the total hours spent learning English over the entire duration.
+Step 2 [MULTIPLY]: Determine the total hours spent learning Chinese over the entire duration.
+Step 3 [ADD]: Combine the total hours spent on both languages to find the overall total.",True,True,False
+100,Step 1 [DIVIDE]: Determine the duration the water bottles will last by dividing the total number of bottles by the daily consumption rate.,True,True,False
+101,Step 1 [SUBTRACT]: Determine the number of push-ups Zachary did by removing the difference from David's total.,True,True,False
+102,Step 1 [DIVIDE]: Determine the total number of packages of white t-shirts by dividing the total quantity of white t-shirts by the size of each package.,True,True,False
+103,Step 1 [ADD]: Combine the number of kids who stay home with the number of kids who go to camp to determine the total population of Lawrence county.,True,True,False
+104,"Step 1 [SUBTRACT]: Determine the initial number of wrappers Danny had before finding the new ones at the park.
+Step 2 [ADD]: Determine the total number of wrappers Danny has in his collection after adding the newly found ones.",True,True,False
+105,Step 1 [SUBTRACT]: Determine Jessie's current weight by subtracting the weight lost from her initial weight.,True,True,False
+106,Step 1 [SUBTRACT]: Determine the remaining number of marbles Josh has after giving some away.,True,True,False
+107,"Step 1 [ADD]: Determine the number of push-ups David performed.
+Step 2 [SUBTRACT]: Determine the number of push-ups John performed.
+Step 3 [SUBTRACT]: Determine how many more push-ups Zachary did than John.",True,True,False
+108,"Step 1 [MULTIPLY]: Determine the total amount of money earned during the harvest season.
+Step 2 [MULTIPLY]: Determine the total amount of money paid for rent during the harvest season.",True,True,False
+109,"Step 1 [ADD]: Determine the total number of bird families that flew away to Africa and Asia.
+Step 2 [SUBTRACT]: Determine the number of bird families that flew away for the winter by removing the total number of families that flew away from the initial population of bird families.",True,True,False
+110,"Step 1 [SUBTRACT]: Determine the remaining amount of flour needed to reach the recipe's requirement.
+Step 2 [SUBTRACT]: Determine the remaining amount of sugar needed to reach the recipe's requirement.
+Step 3 [SUBTRACT]: Determine the difference between the remaining amount of sugar and the remaining amount of salt.",True,True,False
+111,"Step 1 [ADD]: Determine the total weight lost during the first and second weeks of jogging.
+Step 2 [SUBTRACT]: Determine Jessie's current weight by subtracting the total weight lost from her initial weight.",True,True,False
+112,"Step 1 [MULTIPLY]: Determine the total area of the room using the given length and the carpet size.
+Step 2 [DIVIDE]: Calculate the width of the room by dividing the total area by the length.",True,True,False
+113,"Step 1 [SUBTRACT]: Determine the remaining number of potatoes after the farmer picked some.
+Step 2 [ADD]: Combine the remaining number of tomatoes and the remaining number of potatoes to find the total quantity left.",True,True,False
+114,"Step 1 [MULTIPLY]: Determine the total capacity of the small seats.
+Step 2 [MULTIPLY]: Determine the total capacity of the large seats.
+Step 3 [ADD]: Combine the capacities of the small and large seats to find the total number of people the Ferris wheel can hold.",True,True,False
+115,"Step 1 [ADD]: Determine the total number of pieces of candy Bobby ate after the initial amount.
+Step 2 [SUBTRACT]: Determine the initial number of pieces of candy Bobby ate by removing the subsequent amount from the total.",True,True,False
+116,"Step 1 [MULTIPLY]: Determine the total number of red peaches across all baskets.
+Step 2 [SUBTRACT]: Determine the total number of green peaches across all baskets.
+Step 3 [DIVIDE]: Determine the number of green peaches in each individual basket.",True,True,False
+117,Step 1 [ADD]: Determine the total number of cakes made by combining the number of cakes sold and the number of cakes remaining.,True,True,False
+118,"Step 1 [SUBTRACT]: Determine the number of crunches David performed by reducing Zachary's total crunches by the specified difference.
+Step 2 [ADD]: Determine the total number of push-ups David performed by increasing Zachary's total push-ups by the specified difference.
+Step 3 [SUBTRACT]: Determine the total number of crunches David performed by combining the calculated push-ups and crunches.",True,True,False
+119,Step 1 [ADD]: Determine the initial amount of money by combining the amount spent and the remaining balance.,True,True,False
+120,"Step 1 [ADD]: Determine the total number of pieces of candy Bobby ate.
+Step 2 [SUBTRACT]: Determine the number of pieces of candy Bobby still has left.",True,True,False
+121,"Step 1 [ADD]: Determine the total number of shirts produced over the two days.
+Step 2 [DIVIDE]: Determine the total time the machine worked by dividing the total number of shirts by the production rate per minute.",True,True,False
+122,"Step 1 [MULTIPLY]: Calculate the total number of chairs by multiplying the number of table sets by the chairs per set.
+Step 2 [ADD]: Determine the total number of chairs available for guests by adding the extra chairs to the previously calculated total.",True,True,False
+123,Step 1 [SUBTRACT]: Determine the difference between the number of apples Adam has and the number of apples Jackie has.,True,True,False
+124,"Step 1 [SUBTRACT]: Determine the number of peaches Jake has by adjusting Steven's count.
+Step 2 [ADD]: Determine the total number of peaches Jake has by adjusting Jill's count.",True,True,False
+125,"Step 1 [SUBTRACT]: Determine the amount of money spent on the candy bar.
+Step 2 [SUBTRACT]: Determine the amount of money spent on the chocolate.
+Step 3 [SUBTRACT]: Determine the difference in the amount of money spent on the chocolate compared to the candy bar.",True,True,False
+126,"Step 1 [SUBTRACT]: Determine the remaining number of movies to watch by subtracting the watched movies from the total movie count.
+Step 2 [SUBTRACT]: Determine the remaining number of books to read by subtracting the read books from the total book count.
+Step 3 [SUBTRACT]: Determine the difference between the remaining movies and the remaining books to find the final answer.",True,True,False
+127,Step 1 [DIVIDE]: Determine the total number of packages by dividing the total quantity of white t-shirts by the size of each package.,True,True,False
+128,"Step 1 [SUBTRACT]: Determine the difference in the number of kids played with on Monday and Tuesday.
+Step 2 [DIVIDE]: Determine the duration of playtime spent with each group of kids.
+Step 3 [SUBTRACT]: Determine the difference in the duration of playtime spent with the two groups of kids.",True,True,False
+129,"Step 1 [ADD]: Determine the total number of birds and storks sitting on the fence after the additional storks arrive.
+Step 2 [ADD]: Combine the total number of birds and the total number of storks to find the final count of birds and storks on the fence.",True,True,False
+130,"Step 1 [MULTIPLY]: Determine the total number of oranges harvested per day.
+Step 2 [DIVIDE]: Determine the number of days required to harvest the specified number of sacks of oranges.",True,True,False
+131,Step 1 [SUBTRACT]: Determine the number of apples Jackie has by removing the difference from Adam's total.,True,True,False
+132,Step 1 [DIVIDE]: Determine the total duration the machine was working by dividing the total number of shirts produced by the production rate per minute.,True,True,False
+133,"- Determine the total number of balloons brought to the park.
+- Subtract the number of balloons Allan brought to find the number of balloons Jake brought.",False,False,False
+134,"Step 1 [SUBTRACT]: Determine Dean's height based on Ron's height.
+Step 2 [MULTIPLY]: Determine the depth of the water using Dean's height and the given multiplier.",True,True,False
+135,"Step 1 [ADD]: Determine the distance the frog jumped by combining the grasshopper's jump distance with the additional distance it jumped over the frog.
+Step 2 [SUBTRACT]: Determine the distance the mouse jumped by reducing the frog's jump distance by the specified lesser amount.",True,True,False
+136,"Step 1 [ADD]: Determine the total number of bags of cans collected on Monday and the following day.
+Step 2 [ADD]: Determine the total number of bags of cans collected by combining the previous total with the additional bags of bottles.",True,True,False
+137,"Step 1 [ADD]: Determine the total number of action figures on the shelf after adding the new ones.
+Step 2 [SUBTRACT]: Determine the difference between the number of books and the total number of action figures on the shelf.",True,True,False
+138,"Step 1 [SUBTRACT]: Determine the number of bird families that remained near the mountain after some flew away.
+Step 2 [SUBTRACT]: Determine the difference between the number of bird families that flew away and those that stayed behind.",True,True,False
+139,"Step 1 [ADD]: Determine the total number of peaches in one basket by combining the red and green peaches.
+Step 2 [MULTIPLY]: Determine the total number of peaches in all the baskets by multiplying the total peaches in one basket by the number of baskets.",True,True,False
+140,Step 1 [SUBTRACT]: Determine the difference between the number of apples Jackie has and the number of apples Adam has.,True,True,False
+141,"Step 1 [DIVIDE]: Determine the total number of students per school bus based on the seating capacity.
+Step 2 [DIVIDE]: Determine the total number of buses required to transport all the students.",True,True,False
+142,"Step 1 [ADD]: Determine the total number of Nintendo games Kelly currently possesses.
+Step 2 [SUBTRACT]: Determine the number of Nintendo games Kelly needs to give away to reach the desired remaining amount.",True,True,False
+143,"Step 1 [SUBTRACT]: Determine the remaining cookies Paco had after eating some.
+Step 2 [ADD]: Determine the total number of cookies Paco had after buying more.",True,True,False
+144,"Step 1 [SUBTRACT]: Determine the remaining amount of flour needed to reach the total required.
+Step 2 [SUBTRACT]: Determine the difference between the remaining flour and the sugar required.",True,True,False
+145,"Step 1 [SUBTRACT]: Determine the number of crayons remaining after the school year.
+Step 2 [SUBTRACT]: Determine the number of erasers remaining after the school year.
+Step 3 [SUBTRACT]: Determine the difference between the remaining crayons and the remaining erasers.",True,True,False
+146,"Step 1 [SUBTRACT]: Determine the total number of movies in the 'crazy silly school' series.
+Step 2 [SUBTRACT]: Determine the number of movies still remaining to be watched.",True,True,False
+147,"Step 1 [MULTIPLY]: Determine the total number of bottles consumed over the entire duration by multiplying the daily consumption rate by the number of days.
+Step 2 [COMPARE]: Determine the total number of bottles purchased by comparing the total consumed amount to the duration of the bottles' usage.",True,True,False
+148,"Step 1 [ADD]: Determine the total number of new games owned by Katie and her friends.
+Step 2 [ADD]: Determine the total number of old games owned by Katie and her friends.
+Step 3 [ADD]: Determine the combined total of all games owned by Katie and her friends.",True,True,False
+149,"Step 1 [MULTIPLY]: Determine the total number of pizza slices by multiplying the number of pizzas by the number of slices per pizza.
+Step 2 [DIVIDE]: Determine the number of slices each person gets by dividing the total number of slices by the number of people.",True,True,False
+150,"Step 1 [ADD]: Determine the total number of birds sitting on the fence after the additional birds arrive.
+Step 2 [SUBTRACT]: Determine the difference between the number of storks and the total number of birds.",True,True,False
+151,Step 1 [SUBTRACT]: Determine the difference between the number of kids who went to camp and the number of kids who stayed home.,True,True,False
+152,"- Determine the total number of tickets Dave had initially.
+- Determine the number of tickets remaining after purchasing toys.
+- Calculate the number of tickets used to buy toys by subtracting the remaining tickets from the initial total.",False,False,False
+153,Step 1 [SUBTRACT]: Determine the initial number of action figures on the shelf by removing the newly added figures from the total current count.,True,True,False
+154,"Step 1 [SUBTRACT]: Determine the number of books Paul sold during the garage sale.
+Step 2 [SUBTRACT]: Determine the difference between the number of books bought and the number of books sold.",True,True,False
+155,"Step 1 [ADD]: Determine the total number of crayons lost or given away by combining the crayons given to friends and the crayons lost.
+Step 2 [SUBTRACT]: Determine the initial total number of crayons by combining the remaining crayons with the total number of crayons lost or given away.",True,True,False
+156,"Step 1 [MULTIPLY]: Determine the total capacity of the shelves by multiplying the number of action figures per shelf by the total number of shelves.
+Step 2 [MULTIPLY]: Determine the total capacity of the cabinets by multiplying the number of action figures per shelf by the total number of cabinets.
+Step 3 [ADD]: Determine the total number of action figures that the shelves and cabinets can hold together.",True,True,False
+157,Step 1 [MULTIPLY]: Determine the total earnings by multiplying the daily earnings by the number of days the carnival was held.,True,True,False
+158,"Step 1 [SUBTRACT]: Determine the total number of cookies Brenda and her mother have after discarding the unwanted ones.
+Step 2 [DIVIDE]: Determine the number of cookies each of them had by splitting the total amount equally.",True,True,False
+159,"Step 1 [MULTIPLY]: Determine the total number of white t-shirts purchased from the packages.
+Step 2 [ADD]: Combine the total number of white t-shirts with the number of trousers to find the overall total.",True,True,False
+160,Step 1 [SUBTRACT]: Determine the difference between the number of sacks of unripe oranges and the number of sacks of ripe oranges harvested per day.,True,True,False
+161,Step 1 [SUBTRACT]: Determine the difference between the number of kids played with on Monday and the number of kids played with on Wednesday.,True,True,False
+162,"Step 1 [SUBTRACT]: Determine the remaining cookies Paco had after eating some.
+Step 2 [SUBTRACT]: Determine the difference between the cookies bought and the cookies eaten.",True,True,False
+163,Step 1 [DIVIDE]: Determine the number of white t-shirts per package by dividing the total number of white t-shirts by the number of packages.,True,True,False
+164,Step 1 [MULTIPLY]: Determine the total number of students by multiplying the number of grades by the number of students per grade.,True,True,False
+165,"Step 1 [MULTIPLY]: Determine the total number of ripe orange sacks harvested per day.
+Step 2 [MULTIPLY]: Determine the total number of ripe orange sacks harvested over the entire harvest period.",True,True,False
+166,"Step 1 [MULTIPLY]: Calculate the total revenue generated from the t-shirts.
+Step 2 [MULTIPLY]: Calculate the total revenue generated from the jerseys.
+Step 3 [SUBTRACT]: Determine the difference in revenue between the t-shirts and the jerseys.
+Step 4 [DIVIDE]: Calculate the difference in price per item by dividing the revenue difference by the quantity sold.",True,True,False
+167,"Step 1 [SUBTRACT]: Determine the number of peaches Jake has by subtracting the difference from Steven's total.
+Step 2 [SUBTRACT]: Determine the number of peaches Jill has by subtracting the difference from Jake's total.",True,True,False
+168,"Step 1 [ADD]: Determine the total number of customers after the new customers arrive.
+Step 2 [SUBTRACT]: Determine the final number of customers remaining after some leave.",True,True,False
+169,"Step 1 [ADD]: Determine the total number of balloons Allan has after purchasing additional balloons.
+Step 2 [ADD]: Determine the total number of balloons Jake has at the park.
+Step 3 [SUBTRACT]: Determine the difference between the number of balloons Allan has and the number of balloons Jake has.",True,True,False
+170,"Step 1 [MULTIPLY]: Determine the total number of drums of grapes filled per day.
+Step 2 [MULTIPLY]: Determine the total number of drums of grapes filled over the specified number of days.",True,True,False
+171,"Step 1 [SUBTRACT]: Determine the initial number of marbles Doug had before losing any.
+Step 2 [SUBTRACT]: Determine the current number of marbles Doug has after losing the specified amount.",True,True,False
+172,"Step 1 [ADD]: Determine the total number of tickets used to buy the toys and clothes.
+Step 2 [SUBTRACT]: Determine the remaining number of tickets Dave had left after the purchases.",True,True,False
+173,Step 1 [SUBTRACT]: Determine the number of bottle caps found at the park by subtracting the initial collection from the current total.,True,True,False
+174,"Step 1 [ADD]: Determine the total number of crayons lost or given away by combining the crayons given to friends and the crayons lost.
+Step 2 [SUBTRACT]: Determine the remaining number of crayons in the box by subtracting the total lost or given away crayons from the initial total.",True,True,False
+175,"Step 1 [ADD]: Determine the total number of tickets Dave has after winning and losing.
+Step 2 [SUBTRACT]: Determine the number of tickets Dave has left after using some to buy toys.",True,True,False
+176,"Step 1 [ADD]: Determine the total number of bottles of soda by combining the regular soda and diet soda quantities.
+Step 2 [SUBTRACT]: Determine the difference between the total number of bottles of soda and the number of apples to find the answer.",True,True,False
+177,Step 1 [SUBTRACT]: Determine the difference between the number of students who suggested mashed potatoes and the number who suggested bacon.,True,True,False
+178,Step 1 [SUBTRACT]: Determine the number of students who suggested bacon by subtracting the number of students who suggested mashed potatoes from the total number of students.,True,True,False
+179,"Step 1 [MULTIPLY]: Calculate the total earnings for the entire harvest season by multiplying the weekly earnings by the number of harvest weeks.
+Step 2 [MULTIPLY]: Calculate the total rent cost for the entire harvest season by multiplying the weekly rent by the number of harvest weeks.
+Step 3 [SUBTRACT]: Determine the net earnings during harvest season by subtracting the total rent cost from the total earnings.",True,True,False
+180,Step 1 [DIVIDE]: Determine the total number of sets of tables by dividing the total number of chairs by the number of chairs per set.,True,True,False
+181,"Step 1 [ADD]: Determine the total number of visitors over the previous two days.
+Step 2 [SUBTRACT]: Determine the difference between the visitors on the current day and the total visitors from the previous two days.",True,True,False
+182,"Step 1 [SUBTRACT]: Determine the number of books remaining to be read.
+Step 2 [SUBTRACT]: Determine the number of movies remaining to be watched.
+Step 3 [SUBTRACT]: Determine the difference between the number of movies watched and the number of books read.",True,True,False
+183,"Step 1 [MULTIPLY]: Determine the total number of nails required for the large planks of wood.
+Step 2 [MULTIPLY]: Determine the total number of nails required for the small planks of wood.
+Step 3 [ADD]: Determine the total number of nails needed for the house walls.",True,True,False
+184,"Step 1 [ADD]: Determine the total number of crackers and cakes combined.
+Step 2 [DIVIDE]: Determine the number of crackers and cakes each person received.
+Step 3 [ADD]: Determine the total number of crackers and cakes each person ate.",True,True,False
+185,Step 1 [SUBTRACT]: Determine the number of bird families remaining near the mountain by subtracting the number of families that flew away from the initial total.,True,True,False
+186,Step 1 [SUBTRACT]: Determine the difference between the total number of eggs and the total number of marbles.,True,True,False
+187,"Step 1 [MULTIPLY]: Determine the total number of pieces of junk mail delivered to all blocks combined.
+Step 2 [DIVIDE]: Determine the number of houses in a single block by distributing the total mail across the number of blocks.",True,True,False
+188,"Step 1 [ADD]: Determine the total number of visitors to the Buckingham palace over the previous two days.
+Step 2 [SUBTRACT]: Determine the number of visitors who visited the Buckingham palace before the specified day by removing the visitors from the current day from the total.",True,True,False
+189,"Step 1 [ADD]: Determine the total number of bottle caps in Danny's collection.
+Step 2 [ADD]: Determine the total number of wrappers in Danny's collection.
+Step 3 [SUBTRACT]: Determine the difference between the total number of wrappers and the total number of bottle caps.",True,True,False
+190,"Step 1 [SUBTRACT]: Determine the number of t-shirts sold during the Texas Tech game.
+Step 2 [MULTIPLY]: Calculate the total earnings from the t-shirts sold during the Arkansas game.
+Step 3 [MULTIPLY]: Calculate the total earnings from the t-shirts sold during the Texas Tech game.
+Step 4 [ADD]: Determine the total earnings from selling all the t-shirts.",True,True,False
+191,"Step 1 [SUBTRACT]: Determine the number of cookies Paco gave to his friend.
+Step 2 [SUBTRACT]: Determine the number of cookies Paco ate.
+Step 3 [SUBTRACT]: Determine the difference between the number of cookies eaten and the number given to his friend.",True,True,False
+192,Step 1 [SUBTRACT]: Determine the number of boys by removing the difference between the total number of girls and the excess count of girls from the total number of girls.,True,True,False
+193,"Step 1 [ADD]: Determine the total number of students who suggested adding bacon by combining the number of students who suggested mashed potatoes with the additional students who suggested bacon.
+Step 2 [SUBTRACT]: Determine the total number of students who suggested adding bacon by subtracting the number of students who suggested mashed potatoes from the total number of students.",True,True,False
+194,"Step 1 [ADD]: Determine the distance the frog jumped by adding the grasshopper's jump to the additional distance.
+Step 2 [SUBTRACT]: Determine the distance the mouse jumped by subtracting the difference from the frog's jump.",True,True,False
+195,"Step 1 [SUBTRACT]: Determine the number of marbles Ed had before losing any.
+Step 2 [SUBTRACT]: Determine the number of marbles Doug had.
+Step 3 [SUBTRACT]: Determine the difference between the number of marbles Ed had and the number of marbles Doug had.",True,True,False
+196,"Step 1 [SUBTRACT]: Determine the initial number of bottle caps in Danny's collection before throwing away any.
+Step 2 [SUBTRACT]: Determine the number of bottle caps Danny has left after throwing away the old ones.
+Step 3 [SUBTRACT]: Determine the difference between the number of bottle caps thrown away and the number found at the park.",True,True,False
+197,Step 1 [DIVIDE]: Determine the size of each group of oranges by dividing the total number of oranges by the number of groups.,True,True,False
+198,Step 1 [SUBTRACT]: Determine the total number of crayons remaining after accounting for those lost or given away.,True,True,False
+199,"Step 1 [SUBTRACT]: Determine the total number of marbles lost by subtracting the found marbles from the initial collection.
+Step 2 [SUBTRACT]: Determine the difference between the total marbles lost and the marbles found to find how many more marbles were lost.",True,True,False
+200,"Step 1 [MULTIPLY]: Calculate the total number of shirts produced during the first session.
+Step 2 [ADD]: Combine the shirts produced during the first session with the shirts produced during the second session to find the total.",True,True,False
+201,Step 1 [SUBTRACT]: Determine the difference between the number of regular soda bottles and diet soda bottles.,True,True,False
+202,"Step 1 [MULTIPLY]: Calculate the total earnings by multiplying the weekly earnings by the total number of harvest weeks.
+Step 2 [SUBTRACT]: Determine the final amount of money remaining after deducting the tax from the total earnings.",True,True,False
+203,Step 1 [SUBTRACT]: Determine Jessie's weight after the first week of jogging by subtracting the weight lost during that week from her initial weight.,True,True,False
+204,"Step 1 [ADD]: Determine the total number of roses thrown away and added to the vase.
+Step 2 [SUBTRACT]: Determine the number of roses cut from the garden.
+Step 3 [SUBTRACT]: Determine the difference between the number of roses thrown away and the number of roses cut from the garden.",True,True,False
+205,"Step 1 [SUBTRACT]: Determine the number of cookies Paco ate after eating some of them.
+Step 2 [ADD]: Determine the total number of cookies Paco has after buying more.
+Step 3 [SUBTRACT]: Determine how many more cookies Paco ate than those he bought.",True,True,False
+206,Step 1 [DIVIDE]: Determine the total number of games played by dividing the total points scored by the points scored per game.,True,True,False
+207,Step 1 [DIVIDE]: Determine the number of seeds planted in each flowerbed by distributing the total seeds equally among the flowerbeds.,True,True,False
+208,Step 1 [ADD]: Determine the total number of peaches Steven has by combining Jake's peaches with the difference between their quantities.,True,True,False
+209,"Step 1 [DIVIDE]: Determine the number of pages per chapter in the book.
+Step 2 [DIVIDE]: Determine the number of chapters Frank read per day.",True,True,False
+210,Step 1 [SUBTRACT]: Determine the difference between the number of math homework pages and the number of reading homework pages.,True,True,False
+211,Step 1 [DIVIDE]: Determine the number of pieces of candy in each bag by distributing the total quantity equally among the given number of bags.,True,True,False
+212,"Step 1 [ADD]: Determine the total number of action figures on the shelf after adding the new ones.
+Step 2 [SUBTRACT]: Determine the final number of action figures on the shelf after removing the old ones.",True,True,False
+213,"Step 1 [SUBTRACT]: Determine the number of cakes remaining after the initial sales.
+Step 2 [ADD]: Determine the total number of cakes available after making additional cakes.
+Step 3 [SUBTRACT]: Determine the final number of cakes the baker still has.",True,True,False
+214,Step 1 [ADD]: Determine the total number of cookies Paco had in the beginning by combining the number of cookies he ate with the number of cookies he had left.,True,True,False
+215,Step 1 [SUBTRACT]: Determine the cost of the candy bar by finding the difference between the initial amount of money Dan had and the remaining amount he had after the purchase.,True,True,False
+216,"Step 1 [ADD]: Determine the total number of nails used for securing the planks.
+Step 2 [DIVIDE]: Determine the number of planks required by dividing the total number of nails by the number of nails needed per plank.",True,True,False
+217,"Step 1 [ADD]: Determine the total number of fish initially raised by combining the goldfish and catfish.
+Step 2 [SUBTRACT]: Determine the number of fish that disappeared by subtracting the remaining fish from the initial total.",True,True,False
+218,Step 1 [SUBTRACT]: Determine the number of cakes remaining after the baker sold some.,True,True,False
+219,"Step 1 [ADD]: Determine the total earnings generated by the ring toss game at the carnival.
+Step 2 [DIVIDE]: Determine the average daily earnings for the remaining period of the carnival.",True,True,False
+220,"Step 1 [ADD]: Determine the total number of reading homework pages by adding the additional pages to the math homework pages.
+Step 2 [ADD]: Determine the total number of homework pages by combining the math homework pages and the reading homework pages.",True,True,False
+221,Step 1 [DIVIDE]: Determine the total number of days required to fill the specified number of drums of grapes based on the daily capacity of the pickers.,True,True,False
+222,"Step 1 [SUBTRACT]: Determine the initial quantity of baseball cards Nell had.
+Step 2 [SUBTRACT]: Determine the initial quantity of Ace cards Nell had.
+Step 3 [SUBTRACT]: Determine the number of baseball cards Nell gave to Jeff.
+Step 4 [SUBTRACT]: Determine the number of Ace cards Nell gave to Jeff.
+Step 5 [SUBTRACT]: Determine the current quantity of baseball cards Nell has.
+Step 6 [SUBTRACT]: Determine the current quantity of Ace cards Nell has.
+Step 7 [SUBTRACT]: Determine the difference between the current quantity of baseball cards and Ace cards.",True,True,False
+223,"Step 1 [SUBTRACT]: Determine the total number of roses thrown away from the initial amount in the vase.
+Step 2 [SUBTRACT]: Determine the number of new roses cut from the flower garden to reach the current total in the vase.
+Step 3 [SUBTRACT]: Determine the difference between the number of new roses cut and the number of roses thrown away.",True,True,False
+224,"Step 1 [DIVIDE]: Determine the cost of a single candy bar by dividing the total amount spent by the number of candy bars purchased.
+Step 2 [SUBTRACT]: Calculate the remaining money by subtracting the total cost of the candy bars from the initial amount of money Dan had.",True,True,False
+225,Step 1 [SUBTRACT]: Determine the remaining distance to the end of the cave by subtracting the current depth from the total depth of the cave.,True,True,False
+226,Step 1 [MULTIPLY]: Determine the total number of pencils by multiplying the number of rows by the number of pencils in each row.,True,True,False
+227,"Step 1 [ADD]: Determine the total number of roses in the vase after adding the newly cut roses.
+Step 2 [ADD]: Determine the total number of orchids in the vase after adding the newly cut orchids.
+Step 3 [SUBTRACT]: Determine the difference between the current number of roses and orchids in the vase.",True,True,False
+228,"Step 1 [MULTIPLY]: Determine the total earnings for a single harvest season by multiplying the weekly earnings by the number of weeks in the harvest season.
+Step 2 [MULTIPLY]: Determine the total earnings for all harvest seasons by multiplying the earnings for a single harvest season by the total number of harvest seasons.",True,True,False
+229,"Step 1 [SUBTRACT]: Determine the remaining number of tomatoes after the initial harvest.
+Step 2 [SUBTRACT]: Determine the final number of tomatoes left after the second harvest.",True,True,False
+230,"Step 1 [SUBTRACT]: Determine the additional amount of sugar required by comparing the total sugar needed to the sugar already added.
+Step 2 [SUBTRACT]: Determine the additional amount of flour required by comparing the total flour needed to the flour already added.",True,True,False
+231,"Step 1 [SUBTRACT]: Determine the number of bird families that remained behind after some flew away.
+Step 2 [SUBTRACT]: Determine the difference between the number of bird families that flew away and those that stayed behind.",True,True,False
+232,"Step 1 [MULTIPLY]: Calculate the total cost of the candy bars purchased.
+Step 2 [SUBTRACT]: Determine the remaining money after the purchase.",True,True,False
+233,"Step 1 [ADD]: Determine the total earnings from delivering newspapers and washing cars.
+Step 2 [ADD]: Determine the total amount of money Fred has now by combining his initial amount with his earnings.",True,True,False
+234,"Step 1 [ADD]: Determine the total number of birds and storks sitting on the fence.
+Step 2 [ADD]: Determine the total number of storks sitting on the fence after the additional storks arrive.",True,True,False
+235,"Step 1 [DIVIDE]: Determine the number of students in each classroom.
+Step 2 [MULTIPLY]: Calculate the total number of students in the school.
+Step 3 [DIVIDE]: Determine the number of buses required to transport all the students.",True,True,False
+236,"Step 1 [SUBTRACT]: Determine the number of books sold by subtracting the remaining books from the initial total books.
+Step 2 [SUBTRACT]: Determine the number of pens sold by subtracting the remaining pens from the initial total pens.
+Step 3 [ADD]: Determine the total number of items sold by combining the books sold and the pens sold.",True,True,False
+237,Step 1 [SUBTRACT]: Determine the total number of apples used by subtracting the remaining apples from the initial quantity.,True,True,False
+238,"Step 1 [SUBTRACT]: Determine the current number of marbles in Josh's collection after accounting for the lost marbles.
+Step 2 [ADD]: Determine the final total number of marbles in Josh's collection after finding the new ones.",True,True,False
+239,"Step 1 [SUBTRACT]: Determine the initial difference in the number of marbles between Ed and Doug.
+Step 2 [ADD]: Calculate the updated total number of marbles Ed has after finding additional marbles.
+Step 3 [SUBTRACT]: Calculate the updated total number of marbles Doug has after losing some marbles.
+Step 4 [SUBTRACT]: Determine the final difference in the number of marbles between Ed and Doug.",True,True,False
+240,"Step 1 [ADD]: Determine the total distance traveled by combining the depth of the cave and the additional distance needed to reach the end.
+Step 2 [SUBTRACT]: Calculate the distance from the end of the cave by subtracting the depth of the cave from the total distance traveled.",True,True,False
+241,Step 1 [ADD]: Determine the original length of the hair by combining the length of the hair after the cut with the length of the hair that was cut off.,True,True,False
+242,Step 1 [SUBTRACT]: Determine the difference between the number of ripe orange sacks harvested and the number of unripe orange sacks harvested.,True,True,False
+243,"Step 1 [ADD]: Determine the total number of items in the collection by combining the skittles and erasers.
+Step 2 [DIVIDE]: Determine the size of each group by distributing the total items evenly across the specified number of groups.",True,True,False
+244,"Step 1 [ADD]: Determine the number of peaches Steven has by adding the difference to Jill's peaches.
+Step 2 [SUBTRACT]: Determine the number of peaches Jake has by subtracting the difference from Steven's peaches.",True,True,False
+245,"Step 1 [SUBTRACT]: Determine the total number of children who got off the bus.
+Step 2 [SUBTRACT]: Determine the number of children who got on the bus.
+Step 3 [SUBTRACT]: Determine the difference between the number of children who got off and those who got on.",True,True,False
+246,Step 1 [SUBTRACT]: Determine the difference between the number of students who suggested bacon and the number of students who suggested tomatoes.,True,True,False
+247,Step 1 [DIVIDE]: Determine the number of sacks harvested per day by dividing the total number of sacks by the total number of days.,True,True,False
+248,"Step 1 [DIVIDE]: Determine the duration the water bottles will last by dividing the total number of water bottles by the daily consumption rate of water bottles.
+Step 2 [COMPARE]: Determine the duration the soda bottles will last by dividing the total number of soda bottles by the daily consumption rate of soda bottles.
+Step 3 [COMPARE]: Determine the number of days the water bottles will last by comparing the duration of the soda bottles and the water bottles.",True,True,False
+249,"Step 1 [ADD]: Determine the total number of action figures on the shelf after adding the new ones.
+Step 2 [SUBTRACT]: Determine the initial number of action figures on the shelf before any were removed.",True,True,False
+250,"Step 1 [SUBTRACT]: Determine the remaining amount of flour needed to reach the total required for the recipe.
+Step 2 [ADD]: Combine the remaining flour needed with the amount of salt to find the total additional ingredients required.
+Step 3 [SUBTRACT]: Determine the final amount of flour to add by subtracting the already added flour from the total additional ingredients required.",True,True,False
+251,"Step 1 [SUBTRACT]: Determine the number of peaches Jake has by reducing Steven's peaches.
+Step 2 [ADD]: Determine the number of apples Jake has by increasing Steven's apples.
+Step 3 [SUBTRACT]: Determine the difference between the number of peaches and apples Steven has.",True,True,False
+252,"Step 1 [ADD]: Determine the total amount of flour required for the cake.
+Step 2 [SUBTRACT]: Determine the amount of flour already put in by subtracting the remaining flour needed from the total flour required.",True,True,False
+253,Step 1 [MULTIPLY]: Determine the total cost by multiplying the price of a single pack by the number of packs purchased.,True,True,False
+254,"Step 1 [MULTIPLY]: Determine the total number of houses across all blocks.
+Step 2 [MULTIPLY]: Determine the total number of pieces of junk mail to be delivered.",True,True,False
+255,"Step 1 [SUBTRACT]: Determine the number of push-ups Zachary performed based on David's total and the difference.
+Step 2 [ADD]: Combine the number of push-ups performed by Zachary and David to find the total.",True,True,False
+256,Step 1 [DIVIDE]: Determine the number of cookies each guest received by distributing the total quantity equally among the guests.,True,True,False
+257,"Step 1 [ADD]: Determine the total amount of sugar required for the cake.
+Step 2 [ADD]: Determine the total amount of salt required for the cake.
+Step 3 [SUBTRACT]: Determine the difference between the required amount of sugar and the required amount of salt.",True,True,False
+258,"Step 1 [ADD]: Determine the total number of peaches Jake has by combining Steven's peaches with the additional amount.
+Step 2 [SUBTRACT]: Determine the total number of apples Jake has by combining Steven's apples with the additional amount.
+Step 3 [SUBTRACT]: Determine the total number of peaches Jake has by combining the total apples and the difference between the total peaches and apples.",True,True,False
+259,"Step 1 [ADD]: Determine the total number of kids Julia played with across both days.
+Step 2 [ADD]: Determine the total number of kids Julia played with altogether.",True,True,False
+260,Step 1 [SUBTRACT]: Determine the amount of money Edward spent by finding the difference between the initial amount of money he had and the remaining amount he has now.,True,True,False
+261,"Step 1 [SUBTRACT]: Determine the remaining amount of money Dan has after accounting for the cost of the candy bars.
+Step 2 [DIVIDE]: Determine the number of candy bars Dan bought by dividing the remaining amount by the cost of one candy bar.",True,True,False
+262,Step 1 [ADD]: Combine the initial bottle cap collection with the newly found bottle caps to determine the total number of bottle caps.,True,True,False
+263,Step 1 [SUBTRACT]: Determine the number of books sold by subtracting the remaining books from the initial total.,True,True,False
+264,"- Determine the total number of emails received during the day.
+- Subtract the number of emails received in the morning from the total to find the number of emails received in the afternoon.",False,False,False
+265,Step 1 [DIVIDE]: Determine the duration of the harvest by dividing the total earnings by the weekly earnings.,True,True,False
+266,"Step 1 [MULTIPLY]: Determine the total number of pages read across all books.
+Step 2 [DIVIDE]: Determine the number of pages read per day by distributing the total pages over the total number of days.",True,True,False
+267,Step 1 [MULTIPLY]: Determine the total number of chairs by multiplying the number of table sets by the number of chairs per set.,True,True,False
+268,"Step 1 [SUBTRACT]: Determine the number of guests who actually attended the event.
+Step 2 [DIVIDE]: Determine the number of cookies each guest received by distributing the total cookies among the attendees.",True,True,False
+269,"Step 1 [ADD]: Determine the total number of eggs available.
+Step 2 [DIVIDE]: Determine the number of groups of eggs that can be created.",True,True,False
+270,"Step 1 [SUBTRACT]: Determine the new quantity of marbles Ed has after losing some.
+Step 2 [SUBTRACT]: Determine the difference between Ed's remaining marbles and Doug's marbles.",True,True,False
+271,"Step 1 [MULTIPLY]: Determine the total number of pieces of junk mail for the entire block.
+Step 2 [DIVIDE]: Determine the number of pieces of junk mail to be given to each house.",True,True,False
+272,"Step 1 [ADD]: Determine the total number of push-ups David performed by adding the additional push-ups to Zachary's total.
+Step 2 [SUBTRACT]: Determine the total number of crunches David performed by subtracting the difference from Zachary's total crunches.",True,True,False
+273,Step 1 [DIVIDE]: Determine the total number of necklaces Emily can make by dividing the total number of beads by the number of beads required per necklace.,True,True,False
+274,"Step 1 [MULTIPLY]: Determine the area of one room.
+Step 2 [MULTIPLY]: Determine the total area of all rooms combined.",True,True,False
+275,Step 1 [SUBTRACT]: Determine the additional amount of wax required by subtracting the current quantity of wax from the total amount needed.,True,True,False
+276,Step 1 [SUBTRACT]: Determine the number of campers who went rowing in the afternoon by subtracting the morning rowers from the total rowers for the day.,True,True,False
+277,Step 1 [DIVIDE]: Determine the total number of pizzas ordered by dividing the total number of pizza slices by the number of slices per pizza.,True,True,False
+278,Step 1 [SUBTRACT]: Determine the total number of crayons lost or given away by subtracting the remaining crayons from the initial total.,True,True,False
+279,"Step 1 [SUBTRACT]: Determine the number of children who got off the bus at the stop.
+Step 2 [SUBTRACT]: Determine the difference between the initial number of children on the bus and the number remaining after the stop.",True,True,False
+280,Step 1 [SUBTRACT]: Determine the difference between the number of bags found on the next day and the number of bags collected on Monday.,True,True,False
+281,Step 1 [SUBTRACT]: Determine the remaining amount of money Edward has after spending the specified amount.,True,True,False
+282,Step 1 [SUBTRACT]: Determine the number of kids who stay home by subtracting the number of kids who go to camp from the total number of kids in the county.,True,True,False
+283,"Step 1 [SUBTRACT]: Determine the initial quantity of orchids in the vase.
+Step 2 [SUBTRACT]: Determine the initial quantity of roses in the vase.
+Step 3 [SUBTRACT]: Determine the number of orchids cut from the garden.",True,True,False
+284,"Step 1 [SUBTRACT]: Determine the total number of students in the school by combining the number of girls and the additional number of boys.
+Step 2 [SUBTRACT]: Calculate the total number of boys by subtracting the number of girls from the total number of students.",True,True,False
+285,"Step 1 [SUBTRACT]: Determine the number of bottle caps found at the park by comparing the current collection to the initial collection.
+Step 2 [SUBTRACT]: Determine the number of wrappers found at the park by comparing the current collection to the initial collection.
+Step 3 [SUBTRACT]: Determine the difference between the number of bottle caps and wrappers found at the park.",True,True,False
+286,Step 1 [SUBTRACT]: Determine the difference between the total number of pupils and the total number of parents present in the program.,True,True,False
+287,Step 1 [DIVIDE]: Determine the total number of friends by dividing the total number of crackers by the number of crackers given to each friend.,True,True,False
+288,Step 1 [SUBTRACT]: Determine the number of books already read by subtracting the unread books from the total series.,True,True,False
+289,"Step 1 [ADD]: Determine the distance the frog jumped by adding the grasshopper's jump to the additional distance.
+Step 2 [SUBTRACT]: Determine the distance the mouse jumped by subtracting the lesser distance from the frog's jump.
+Step 3 [SUBTRACT]: Determine how much farther the mouse jumped than the grasshopper by subtracting the grasshopper's jump from the mouse's jump.",True,True,False
+290,"Step 1 [SUBTRACT]: Determine the number of trees that survived the typhoon by subtracting the number of trees that died from the total number of trees.
+Step 2 [SUBTRACT]: Determine the difference between the number of trees that survived the typhoon and the number of trees that died.",True,True,False
+291,"Step 1 [SUBTRACT]: Determine the difference between the total number of books and the number of books read.
+Step 2 [SUBTRACT]: Determine the difference between the total number of movies and the number of movies watched.
+Step 3 [SUBTRACT]: Determine the final difference between the number of movies and the number of books.",True,True,False
+292,"Step 1 [MULTIPLY]: Determine the total number of pencils by calculating the product of the number of packs and the pencils per pack.
+Step 2 [MULTIPLY]: Determine the total number of pencils by calculating the product of the number of rows and the pencils per row.
+Step 3 [SUBTRACT]: Determine the remaining number of pencils by subtracting the total pencils placed into rows from the total pencils available.",True,True,False
+293,Step 1 [DIVIDE]: Determine the total number of packages by dividing the total quantity of white t-shirts by the number of t-shirts per package.,True,True,False
+294,"Step 1 [ADD]: Determine the total amount of flour required for the cake.
+Step 2 [SUBTRACT]: Determine the amount of flour already put in by subtracting the remaining flour needed from the total required.",True,True,False
+295,"Step 1 [ADD]: Combine the number of red peaches and yellow peaches to find the total of those two colors.
+Step 2 [ADD]: Combine the result from Step 1 with the number of green peaches to find the total number of peaches in the basket.",True,True,False
+296,"Step 1 [ADD]: Determine the total number of emails received in the morning.
+Step 2 [ADD]: Determine the total number of emails received in the day by combining the morning and afternoon emails.",True,True,False
+297,"Step 1 [SUBTRACT]: Determine the initial difference in the number of marbles between Ed and Doug.
+Step 2 [SUBTRACT]: Determine the total number of marbles lost by Doug based on the change in their difference.",True,True,False
+298,Step 1 [ADD]: Determine the initial amount of money Dan had by combining the money spent on the candy bar and the remaining money he has.,True,True,False
+299,"Step 1 [ADD]: Determine the total number of apples Jake has by combining Steven's apples with the additional apples.
+Step 2 [SUBTRACT]: Determine the total number of peaches Jake has by combining Steven's peaches with the additional peaches.
+Step 3 [SUBTRACT]: Determine the total number of apples Jake has by combining the total apples and the additional apples.",True,True,False

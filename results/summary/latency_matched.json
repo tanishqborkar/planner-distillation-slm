@@ -1,0 +1,26 @@
+{
+  "Phase A (planner) alone": {
+    "mean_s": 9.792821184794109,
+    "median_s": 8.886098384857178
+  },
+  "2-SLM guided (Qwen-Math)": {
+    "mean_s": 24.75460775693258,
+    "median_s": 23.140294075012207
+  },
+  "Phase B alone (Qwen-Math)": {
+    "mean_s": 12.373645893732707,
+    "median_s": 10.93608283996582
+  },
+  "2-SLM guided (Qwen general)": {
+    "mean_s": 23.203838483492532,
+    "median_s": 20.55953097343445
+  },
+  "Phase B alone (Qwen general)": {
+    "mean_s": 15.574381518363953,
+    "median_s": 12.89591670036316
+  },
+  "1-SLM compressed": {
+    "mean_s": 3.1157273848851523,
+    "median_s": 2.9898102283477783
+  }
+}

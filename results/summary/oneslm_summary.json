@@ -1,0 +1,25 @@
+{
+  "tag": "1.5B_plannerdistill",
+  "base": "Qwen/Qwen2.5-1.5B",
+  "mode": "planner_distilled",
+  "gsm8k": {
+    "n": 1319,
+    "correct": 738,
+    "acc": 0.5595147839272175,
+    "ci": [
+      0.5327227845063834,
+      0.5863067833480516
+    ],
+    "tokens": 115.52009097801364,
+    "plan_rate": 1.0,
+    "ops_valid": 0.9984836997725549,
+    "strategies": {
+      "hash": 1315,
+      "equals": 2,
+      "last_number": 2
+    }
+  },
+  "latency_mean": 11.774012072881062,
+  "latency_median": 11.06277871131897,
+  "latency_n": 30
+}

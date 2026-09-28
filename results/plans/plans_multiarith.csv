@@ -1,0 +1,385 @@
+idx,plan,format_ok,ops_valid,has_math
+0,"Step 1 [SUBTRACT]: Determine the remaining number of songs on the mp3 player after removing the old songs.
+Step 2 [ADD]: Determine the total number of songs on the mp3 player after adding the new songs.",True,True,False
+1,"Step 1 [ADD]: Determine the total number of students who tried out for the basketball team.
+Step 2 [SUBTRACT]: Determine the number of students who didn't make the cut by subtracting the number of students called back from the total number of students who tried out.",True,True,False
+2,"Step 1 [SUBTRACT]: Determine the remaining number of coloring books after giving some away.
+Step 2 [ADD]: Determine the total number of coloring books after purchasing additional ones.",True,True,False
+3,"Step 1 [SUBTRACT]: Determine the remaining apples after using some for lunch.
+Step 2 [ADD]: Determine the total number of apples after purchasing additional ones.",True,True,False
+4,"Step 1 [SUBTRACT]: Determine the number of enemies defeated in the level.
+Step 2 [MULTIPLY]: Calculate the total points earned by multiplying the number of defeated enemies by the points awarded per enemy.",True,True,False
+5,"Step 1 [SUBTRACT]: Determine the number of bags of cans Megan actually recycled.
+Step 2 [MULTIPLY]: Calculate the total points earned based on the number of recycled bags and the points per bag.",True,True,False
+6,"Step 1 [SUBTRACT]: Determine the number of roses sold during the sale.
+Step 2 [MULTIPLY]: Calculate the total earnings by multiplying the number of roses sold by the price per rose.",True,True,False
+7,"Step 1 [ADD]: Determine the total number of shirts Ned had to wash.
+Step 2 [SUBTRACT]: Determine the number of shirts Ned did not wash by subtracting the washed shirts from the total.",True,True,False
+8,"Step 1 [SUBTRACT]: Determine the total number of people who actually attended the luncheon.
+Step 2 [DIVIDE]: Calculate the number of tables required by dividing the number of attendees by the capacity of each table.",True,True,False
+9,"Step 1 [MULTIPLY]: Determine the total number of books Tom has after selling the initial set.
+Step 2 [ADD]: Combine the remaining books with the newly purchased books to find the final total.",True,True,False
+10,"Step 1 [ADD]: Determine the total number of sodas purchased by combining the regular and diet sodas.
+Step 2 [DIVIDE]: Determine the number of shelves required by dividing the total number of sodas by the capacity of each shelf.",True,True,False
+11,"Step 1 [ADD]: Determine the total amount of candy combined by adding the candy each person received.
+Step 2 [SUBTRACT]: Determine the remaining pieces of candy after they ate the specified amount.",True,True,False
+12,"Step 1 [SUBTRACT]: Determine the number of seeds remaining after planting in the big garden.
+Step 2 [DIVIDE]: Determine the number of small gardens by dividing the remaining seeds by the number of seeds planted in each small garden.",True,True,False
+13,"Step 1 [ADD]: Determine the total number of pieces of candy received from all sources.
+Step 2 [DIVIDE]: Determine how long the candy will last by dividing the total amount by the daily consumption rate.",True,True,False
+14,"Step 1 [SUBTRACT]: Determine the number of books Mike is left with after the librarian takes some.
+Step 2 [DIVIDE]: Determine the number of shelves needed by dividing the remaining books by the capacity of each shelf.",True,True,False
+15,"Step 1 [ADD]: Determine the total number of vacation pictures taken by combining the zoo and museum photographs.
+Step 2 [SUBTRACT]: Determine the remaining number of vacation pictures by removing the deleted pictures from the total.",True,True,False
+16,"Step 1 [SUBTRACT]: Determine the number of remaining windows that need to be installed.
+Step 2 [MULTIPLY]: Calculate the total time required to install the remaining windows.",True,True,False
+17,"Step 1 [SUBTRACT]: Determine the remaining number of oranges in the bin after discarding the old ones.
+Step 2 [ADD]: Determine the total number of oranges in the bin after adding the new ones.",True,True,False
+18,"Step 1 [SUBTRACT]: Determine the number of customers who left a tip by subtracting the customers who didn't tip from the total number of customers.
+Step 2 [MULTIPLY]: Calculate the total amount of money earned by multiplying the number of customers who left a tip by the amount received from each of them.",True,True,False
+19,"Step 1 [SUBTRACT]: Determine the remaining pieces of candy Faye has after eating some.
+Step 2 [ADD]: Determine the total pieces of candy Faye has after receiving more from her sister.",True,True,False
+20,"Step 1 [ADD]: Determine the total number of chicken wings available for the group.
+Step 2 [DIVIDE]: Determine the number of chicken wings each person gets by dividing the total amount by the number of friends.",True,True,False
+21,"Step 1 [SUBTRACT]: Determine the number of lawns John actually mowed by subtracting the forgotten lawns from the total lawns.
+Step 2 [MULTIPLY]: Calculate the total earnings by multiplying the number of lawns actually mowed by the earnings per lawn.",True,True,False
+22,"Step 1 [ADD]: Determine the total number of puppies at the pet shelter after the new ones are brought in.
+Step 2 [DIVIDE]: Determine the time required to adopt all the puppies based on the daily adoption rate.",True,True,False
+23,"Step 1 [SUBTRACT]: Determine the number of remaining windows that need to be installed.
+Step 2 [MULTIPLY]: Calculate the total time required to install the remaining windows.",True,True,False
+24,Step 1 [ADD]: Determine the total number of worksheets the teacher has to grade by combining the initially graded worksheets with the newly turned in worksheets.,True,True,False
+25,"Step 1 [ADD]: Determine the total number of tickets Frank won by combining the tickets from both games.
+Step 2 [DIVIDE]: Determine the number of pieces of candy Frank can buy by dividing the total number of tickets by the cost per piece of candy.",True,True,False
+26,"Step 1 [SUBTRACT]: Determine the number of adult meals required by subtracting the number of kids from the total group size.
+Step 2 [MULTIPLY]: Calculate the total cost for the group by multiplying the number of adult meals by the individual cost of an adult meal.",True,True,False
+27,"Step 1 [ADD]: Determine the total number of math and science problems combined.
+Step 2 [SUBTRACT]: Determine the number of problems remaining to be completed for homework.",True,True,False
+28,"Step 1 [MULTIPLY]: Calculate the score earned from the first level of the game.
+Step 2 [MULTIPLY]: Calculate the score earned from the second level of the game.
+Step 3 [ADD]: Combine the scores from both levels to determine the total score.",True,True,False
+29,"Step 1 [ADD]: Determine the total number of customers served by the waiter.
+Step 2 [SUBTRACT]: Determine the number of customers who left a tip by removing those who didn't leave a tip from the total.",True,True,False
+30,"Step 1 [ADD]: Determine the total number of giant stuffed bears available after receiving the new shipment.
+Step 2 [DIVIDE]: Determine the number of shelves used by dividing the total number of bears by the number of bears per shelf.",True,True,False
+31,"Step 1 [MULTIPLY]: Determine the total number of mystery books by multiplying the number of shelves by the number of books per shelf.
+Step 2 [MULTIPLY]: Determine the total number of picture books by multiplying the number of shelves by the number of books per shelf.
+Step 3 [ADD]: Combine the total number of mystery books and picture books to find the overall total.",True,True,False
+32,"Step 1 [SUBTRACT]: Determine the number of pictures remaining after placing the initial album.
+Step 2 [DIVIDE]: Determine the number of pictures in each of the remaining albums.",True,True,False
+33,"Step 1 [ADD]: Determine the total number of students on the debate team by combining the number of boys and girls.
+Step 2 [DIVIDE]: Determine the number of groups that can be formed by dividing the total number of students by the size of each group.",True,True,False
+34,"Step 1 [SUBTRACT]: Determine the number of roses sold during the sale.
+Step 2 [MULTIPLY]: Calculate the total earnings by multiplying the number of roses sold by the price per rose.",True,True,False
+35,"Step 1 [SUBTRACT]: Determine the number of team members who actually attended the game.
+Step 2 [MULTIPLY]: Calculate the total points scored by the attending members.",True,True,False
+36,"Step 1 [ADD]: Determine the total number of cats in the pet store by combining the number of Siamese cats and house cats.
+Step 2 [SUBTRACT]: Determine the number of cats remaining in the pet store after the sale by subtracting the number of sold cats from the total number of cats.",True,True,False
+37,"Step 1 [MULTIPLY]: Calculate the total earnings for the first day based on the hourly rate and the hours worked.
+Step 2 [MULTIPLY]: Calculate the total earnings for the second day based on the hourly rate and the hours worked.
+Step 3 [ADD]: Combine the earnings from both days to determine the total amount made.",True,True,False
+38,"Step 1 [SUBTRACT]: Determine the remaining cupcakes after accounting for the ones eaten by Todd.
+Step 2 [DIVIDE]: Determine the total number of packages that can be made by dividing the remaining cupcakes by the number of cupcakes per package.",True,True,False
+39,"Step 1 [ADD]: Determine the total number of players in the game.
+Step 2 [MULTIPLY]: Determine the total number of lives by multiplying the total number of players by the number of lives each player has.",True,True,False
+40,"Step 1 [SUBTRACT]: Determine the remaining number of socks after discarding the old ones.
+Step 2 [ADD]: Determine the total number of socks after adding the new ones.",True,True,False
+41,"Step 1 [SUBTRACT]: Determine the number of flowers that remained after accounting for the wilted ones.
+Step 2 [DIVIDE]: Calculate the total number of bouquets that can be made using the remaining flowers.",True,True,False
+42,"Step 1 [SUBTRACT]: Determine the remaining number of books Adam has after selling some of them.
+Step 2 [ADD]: Determine the total number of books Adam has after purchasing new books with the money earned.",True,True,False
+43,"Step 1 [ADD]: Determine the total number of people going on the field trip by combining the number of students and adults.
+Step 2 [DIVIDE]: Determine the number of vans required by dividing the total number of people by the capacity of each van. Round up to ensure all people fit.",True,True,False
+44,"Step 1 [ADD]: Determine the total number of sodas purchased by combining the regular and diet sodas.
+Step 2 [DIVIDE]: Determine the number of shelves required by dividing the total number of sodas by the capacity of each shelf.",True,True,False
+45,"Step 1 [ADD]: Determine the total number of apples remaining after using some for lunch.
+Step 2 [ADD]: Determine the final total number of apples after purchasing additional apples.",True,True,False
+46,"Step 1 [ADD]: Determine the total number of trays Luke needs to carry.
+Step 2 [DIVIDE]: Determine the number of trips Luke will make based on the total trays and his carrying capacity.",True,True,False
+47,"Step 1 [SUBTRACT]: Determine the remaining apples available for making pies after distributing some to students.
+Step 2 [DIVIDE]: Calculate the total number of pies that can be made using the remaining apples.",True,True,False
+48,"Step 1 [SUBTRACT]: Determine the number of action figures Henry still needs to complete his collection.
+Step 2 [MULTIPLY]: Calculate the total cost of the required action figures by multiplying the number needed by the individual price.",True,True,False
+49,"Step 1 [ADD]: Determine the total amount of money Frank has after receiving his allowance.
+Step 2 [DIVIDE]: Determine the number of 8 dollar toys Frank can buy by dividing the total amount of money by the cost of one toy.",True,True,False
+50,"Step 1 [ADD]: Determine the total number of carrots picked by both Vanessa and her mother.
+Step 2 [SUBTRACT]: Determine the number of bad carrots by subtracting the number of good carrots from the total number of carrots picked.",True,True,False
+51,"Step 1 [ADD]: Determine the total number of people participating in the game of volleyball.
+Step 2 [DIVIDE]: Determine the number of people on each team by distributing the total evenly among the teams.",True,True,False
+52,"Step 1 [SUBTRACT]: Determine the number of brownies still needed for the party.
+Step 2 [MULTIPLY]: Calculate the total amount of flour required for the remaining brownies.",True,True,False
+53,"Step 1 [ADD]: Determine the total number of carrots picked by Carol and her mother.
+Step 2 [SUBTRACT]: Determine the number of bad carrots by subtracting the number of good carrots from the total picked.",True,True,False
+54,"Step 1 [MULTIPLY]: Determine the total number of problems across all worksheets.
+Step 2 [MULTIPLY]: Determine the total number of problems already graded.
+Step 3 [SUBTRACT]: Determine the number of problems remaining to be graded.",True,True,False
+55,"Step 1 [ADD]: Determine the total number of players in the game.
+Step 2 [MULTIPLY]: Determine the total number of lives by multiplying the total number of players by the number of lives each player has.",True,True,False
+56,"Step 1 [SUBTRACT]: Determine the remaining tickets after spending some on the beanie.
+Step 2 [ADD]: Determine the total number of tickets after winning additional tickets.",True,True,False
+57,"Step 1 [SUBTRACT]: Determine the remaining pieces of candy after Bianca ate some.
+Step 2 [DIVIDE]: Determine the number of piles by dividing the remaining pieces by the size of each pile.",True,True,False
+58,"Step 1 [ADD]: Determine the total number of players in the game.
+Step 2 [MULTIPLY]: Calculate the total number of lives by multiplying the total number of players by the number of lives each player has.",True,True,False
+59,"Step 1 [SUBTRACT]: Determine the number of adult meals required by subtracting the number of kids from the total group size.
+Step 2 [MULTIPLY]: Calculate the total cost for the group by multiplying the number of adult meals by the individual cost of an adult meal.",True,True,False
+60,"Step 1 [SUBTRACT]: Determine the number of books Roger has left after selling some of them.
+Step 2 [ADD]: Determine the total number of books Roger has after purchasing new books.",True,True,False
+61,"Step 1 [SUBTRACT]: Determine the remaining lives after losing some in the hard part of the game.
+Step 2 [ADD]: Determine the total lives after gaining additional lives in the next level.",True,True,False
+62,"Step 1 [SUBTRACT]: Determine the amount of money Frank has left after purchasing the new mower blades.
+Step 2 [DIVIDE]: Determine the number of 2 dollar games Frank can buy with the remaining money.",True,True,False
+63,"Step 1 [ADD]: Determine the total number of players by combining the new players and the returning players.
+Step 2 [DIVIDE]: Determine the total number of groups by dividing the total number of players by the number of players per group.",True,True,False
+64,"Step 1 [SUBTRACT]: Determine the number of files remaining after the deletion.
+Step 2 [DIVIDE]: Determine the number of folders by distributing the remaining files into groups of the specified size.",True,True,False
+65,"Step 1 [SUBTRACT]: Determine the number of games remaining after the initial sales.
+Step 2 [DIVIDE]: Determine the number of boxes required to pack the remaining games.",True,True,False
+66,"Step 1 [SUBTRACT]: Determine the number of students who were successfully placed into groups by subtracting the number of students not picked from the total number of students trying out.
+Step 2 [DIVIDE]: Determine the number of students in each group by dividing the remaining students by the total number of groups.",True,True,False
+67,"Step 1 [SUBTRACT]: Determine the number of pictures remaining after the initial album is created.
+Step 2 [DIVIDE]: Determine the number of pictures in each of the remaining albums.",True,True,False
+68,"Step 1 [ADD]: Determine the total amount of money Mike earned by combining the earnings from mowing lawns and weed eating.
+Step 2 [DIVIDE]: Determine how long the total money will last by dividing the total earnings by the weekly spending amount.",True,True,False
+69,"Step 1 [ADD]: Determine the total number of files on the flash drive by combining the music files and video files.
+Step 2 [SUBTRACT]: Determine the number of files remaining on the flash drive after the deletion.",True,True,False
+70,"Step 1 [ADD]: Determine the total number of shirts Dave had to wash by combining the short sleeve and long sleeve shirts.
+Step 2 [SUBTRACT]: Determine the number of shirts Dave did not wash by subtracting the number of shirts already washed from the total number of shirts.",True,True,False
+71,"Step 1 [SUBTRACT]: Determine the number of potatoes remaining to be cooked.
+Step 2 [MULTIPLY]: Calculate the total cooking time required for the remaining potatoes.",True,True,False
+72,"Step 1 [ADD]: Determine the total number of vacation pictures taken by combining the zoo and museum photographs.
+Step 2 [SUBTRACT]: Determine the remaining number of vacation pictures after the deletions.",True,True,False
+73,"Step 1 [ADD]: Determine the total number of puppies at the pet shelter after the new ones are brought in.
+Step 2 [DIVIDE]: Determine the time required to adopt all the puppies based on the daily adoption rate.",True,True,False
+74,"Step 1 [SUBTRACT]: Determine the remaining pieces of clothing after the initial load.
+Step 2 [DIVIDE]: Determine the number of pieces of clothing that can go in each of the small loads.",True,True,False
+75,"Step 1 [MULTIPLY]: Determine the total number of pieces of chocolate candy.
+Step 2 [MULTIPLY]: Determine the total number of pieces of caramel candy.
+Step 3 [ADD]: Determine the total amount of candy Adam had.",True,True,False
+76,"Step 1 [MULTIPLY]: Calculate the total cost of the roses.
+Step 2 [MULTIPLY]: Calculate the total cost of the daisies.
+Step 3 [ADD]: Combine the cost of the roses and the daisies to determine the total amount spent.",True,True,False
+77,"Step 1 [ADD]: Determine the total number of books Victor purchased at the book fair.
+Step 2 [SUBTRACT]: Determine the number of new books Victor bought by removing the used books from the total.",True,True,False
+78,"Step 1 [SUBTRACT]: Determine the remaining carrots after discarding the damaged ones.
+Step 2 [ADD]: Combine the remaining carrots with the newly picked carrots to find the total.",True,True,False
+79,"Step 1 [SUBTRACT]: Determine the remaining roses after the initial sales.
+Step 2 [ADD]: Determine the total number of roses after adding the newly picked ones.",True,True,False
+80,"Step 1 [MULTIPLY]: Determine the total number of math problems by multiplying the number of math homework pages by the number of problems per page.
+Step 2 [MULTIPLY]: Determine the total number of reading problems by multiplying the number of reading homework pages by the number of problems per page.
+Step 3 [ADD]: Determine the total number of problems to complete by combining the math problems and the reading problems.",True,True,False
+81,"Step 1 [ADD]: Determine the total number of players in the game by combining the initial players and the new players who joined.
+Step 2 [MULTIPLY]: Calculate the total number of lives by multiplying the total number of players by the number of lives each player has.",True,True,False
+82,"Step 1 [SUBTRACT]: Determine the remaining amount of money Kaleb has after purchasing the game.
+Step 2 [DIVIDE]: Determine the number of 2 dollar toys Kaleb can buy with the remaining money.",True,True,False
+83,"Step 1 [ADD]: Determine the total number of homework pages by combining the math and reading pages.
+Step 2 [MULTIPLY]: Determine the total number of problems by multiplying the total number of homework pages by the number of problems per page.",True,True,False
+84,"Step 1 [MULTIPLY]: Determine the total number of songs on the country albums.
+Step 2 [MULTIPLY]: Determine the total number of songs on the pop albums.
+Step 3 [ADD]: Combine the songs from the country and pop albums to find the total number of songs.",True,True,False
+85,"Step 1 [ADD]: Determine the total amount of money Jerry earned by combining the earnings from mowing lawns and weed eating.
+Step 2 [DIVIDE]: Determine how long the total money will last by dividing the total earnings by the weekly spending amount.",True,True,False
+86,"Step 1 [SUBTRACT]: Determine the number of books Adam has left after selling some of them.
+Step 2 [ADD]: Determine the total number of books Adam has after purchasing new books.",True,True,False
+87,"Step 1 [ADD]: Determine the total number of bags filled over the two days.
+Step 2 [MULTIPLY]: Determine the total number of cans collected by multiplying the total number of bags by the number of cans per bag.",True,True,False
+88,"Step 1 [MULTIPLY]: Determine the total number of mystery books by multiplying the number of mystery book shelves by the number of books per shelf.
+Step 2 [MULTIPLY]: Determine the total number of picture books by multiplying the number of picture book shelves by the number of books per shelf.
+Step 3 [ADD]: Determine the total number of books by combining the total mystery books and the total picture books.",True,True,False
+89,"Step 1 [ADD]: Determine the total amount of money Paul has after receiving his allowance.
+Step 2 [DIVIDE]: Determine the number of 5 dollar toys Paul can buy by dividing the total amount by the cost of one toy.",True,True,False
+90,"Step 1 [SUBTRACT]: Determine the remaining lives after losing some during the hard part of the game.
+Step 2 [ADD]: Determine the total lives after gaining additional lives in the next level.",True,True,False
+91,"Step 1 [SUBTRACT]: Determine the number of files remaining after deletion.
+Step 2 [DIVIDE]: Determine the number of folders by distributing the remaining files into groups of the specified size.",True,True,False
+92,"Step 1 [MULTIPLY]: Calculate the earnings for the first day based on the hourly rate and the hours worked.
+Step 2 [MULTIPLY]: Calculate the earnings for the second day based on the hourly rate and the hours worked.
+Step 3 [ADD]: Combine the earnings from both days to determine the total amount made.",True,True,False
+93,"Step 1 [ADD]: Determine the total number of cupcakes Carol has after selling some of them.
+Step 2 [ADD]: Determine the final total number of cupcakes Carol has after making additional cupcakes.",True,True,False
+94,"Step 1 [SUBTRACT]: Determine the number of team members who actually attended the game.
+Step 2 [MULTIPLY]: Calculate the total points scored by the attending members.",True,True,False
+95,"Step 1 [SUBTRACT]: Determine the number of team members who actually attended the game.
+Step 2 [MULTIPLY]: Calculate the total points scored by the attending members.",True,True,False
+96,"Step 1 [SUBTRACT]: Determine the number of books Oliver is left with after the librarian takes some.
+Step 2 [DIVIDE]: Determine the number of shelves needed by dividing the remaining books by the capacity of each shelf.",True,True,False
+97,"Step 1 [MULTIPLY]: Determine the total number of quarters by multiplying the number of quarter piles by the number of coins in each pile.
+Step 2 [MULTIPLY]: Determine the total number of dimes by multiplying the number of dime piles by the number of coins in each pile.
+Step 3 [ADD]: Determine the total number of coins by combining the total quarters and total dimes.",True,True,False
+98,"Step 1 [ADD]: Determine the total weight of the paper recycled by Gwen and her friends.
+Step 2 [DIVIDE]: Determine the total number of points earned by dividing the total weight of the paper by the weight required to earn one point.",True,True,False
+99,"Step 1 [MULTIPLY]: Calculate the total cost of the tickets purchased for Haley and her friends.
+Step 2 [MULTIPLY]: Calculate the total cost of the extra tickets purchased.
+Step 3 [ADD]: Combine the cost of the initial tickets and the extra tickets to determine the total amount spent.",True,True,False
+100,"Step 1 [ADD]: Determine the total amount of money George has after receiving the birthday gift.
+Step 2 [SUBTRACT]: Determine the remaining amount of money George has after purchasing the new game.",True,True,False
+101,"Step 1 [MULTIPLY]: Determine the total number of parrots in all the cages.
+Step 2 [MULTIPLY]: Determine the total number of parakeets in all the cages.
+Step 3 [ADD]: Determine the total number of birds in the pet store by combining the parrots and parakeets.",True,True,False
+102,"Step 1 [MULTIPLY]: Determine the total number of chocolate pieces in all the boxes.
+Step 2 [SUBTRACT]: Determine the number of chocolate pieces Kaleb still has after giving some to his brother.",True,True,False
+103,"Step 1 [ADD]: Determine the total number of pictures uploaded to Facebook by combining the pictures from the phone and the camera.
+Step 2 [DIVIDE]: Determine the number of pictures in each album by distributing the total number of pictures equally among the given number of albums.",True,True,False
+104,"Step 1 [SUBTRACT]: Determine the amount of money Mike has left after purchasing the new mower blades.
+Step 2 [DIVIDE]: Determine the number of 5 dollar games Mike can buy with the remaining money.",True,True,False
+105,"Step 1 [ADD]: Determine the total number of pieces of furniture Maria purchased.
+Step 2 [MULTIPLY]: Determine the total time spent assembling all the furniture.",True,True,False
+106,"Step 1 [ADD]: Determine the total number of vacation pictures taken by combining the zoo and museum photographs.
+Step 2 [SUBTRACT]: Determine the remaining number of vacation pictures by removing the deleted photographs from the total.",True,True,False
+107,"Step 1 [ADD]: Determine the total number of cookies by combining the chocolate chip and oatmeal cookies.
+Step 2 [DIVIDE]: Determine the number of baggies by dividing the total number of cookies by the number of cookies per bag.",True,True,False
+108,"Step 1 [MULTIPLY]: Calculate the total cost of the roses.
+Step 2 [MULTIPLY]: Calculate the total cost of the daisies.
+Step 3 [ADD]: Combine the cost of the roses and the daisies to determine the total amount spent.",True,True,False
+109,"Step 1 [MULTIPLY]: Determine the total number of mystery books by multiplying the number of mystery book shelves by the number of books per shelf.
+Step 2 [MULTIPLY]: Determine the total number of picture books by multiplying the number of picture book shelves by the number of books per shelf.
+Step 3 [ADD]: Determine the total number of books by combining the total mystery books and the total picture books.",True,True,False
+110,"Step 1 [ADD]: Determine the total number of baseball cards by combining the new cards and the old cards.
+Step 2 [DIVIDE]: Determine the total number of pages required by dividing the total number of cards by the number of cards per page.",True,True,False
+111,"Step 1 [MULTIPLY]: Determine the total amount of flour used for the brownies already baked.
+Step 2 [SUBTRACT]: Determine the remaining amount of flour needed to reach the total required for the party.",True,True,False
+112,"Step 1 [ADD]: Determine the total number of cupcakes Maria has after selling some of them.
+Step 2 [ADD]: Determine the final total number of cupcakes Maria has after making additional cupcakes.",True,True,False
+113,"Step 1 [SUBTRACT]: Determine the number of tickets remaining after spending on the 'dunk a clown' booth.
+Step 2 [DIVIDE]: Determine the total number of rides Tom could go on using the remaining tickets.",True,True,False
+114,"Step 1 [SUBTRACT]: Determine the number of students remaining after some students left.
+Step 2 [ADD]: Determine the total number of students in fourth grade at the end of the year.",True,True,False
+115,"Step 1 [ADD]: Determine the total number of towels Maria purchased by combining the green and white towels.
+Step 2 [SUBTRACT]: Determine the number of towels Maria ended up with after giving some to her mother.",True,True,False
+116,"Step 1 [ADD]: Determine the total number of questions answered correctly across both halves of the game.
+Step 2 [MULTIPLY]: Calculate the final score by multiplying the total number of correct answers by the point value per question.",True,True,False
+117,"Step 1 [ADD]: Determine the total number of bags filled over the weekend.
+Step 2 [MULTIPLY]: Determine the total number of cans collected by multiplying the total number of bags by the number of cans per bag.",True,True,False
+118,"Step 1 [ADD]: Determine the total weight of the paper recycled by Bianca and her friends.
+Step 2 [DIVIDE]: Determine the total number of points earned by dividing the total weight of the paper by the weight required to earn one point.",True,True,False
+119,"Step 1 [ADD]: Determine the total number of chicken wings available for the group.
+Step 2 [DIVIDE]: Determine the number of chicken wings each person gets by dividing the total amount by the number of friends.",True,True,False
+120,"Step 1 [SUBTRACT]: Determine the number of socks remaining after discarding the old ones.
+Step 2 [ADD]: Determine the total number of socks after adding the new ones.",True,True,False
+121,"Step 1 [ADD]: Determine the total number of players on the baseball team by combining the new players and the returning players.
+Step 2 [DIVIDE]: Determine the total number of groups by dividing the total number of players by the number of players in each group.",True,True,False
+122,"Step 1 [MULTIPLY]: Determine the total time required to paint all the rooms.
+Step 2 [SUBTRACT]: Determine the time already spent painting the completed rooms.
+Step 3 [SUBTRACT]: Determine the remaining time needed to paint the remaining rooms.",True,True,False
+123,"Step 1 [SUBTRACT]: Determine the number of remaining customers in the waiter's section.
+Step 2 [DIVIDE]: Calculate the total number of tables based on the remaining customers and the number of people per table.",True,True,False
+124,"Step 1 [SUBTRACT]: Determine the remaining pieces of clothing after the initial load.
+Step 2 [DIVIDE]: Determine the number of pieces of clothing that can go into each of the remaining loads.",True,True,False
+125,"Step 1 [SUBTRACT]: Determine the number of students remaining after some students left.
+Step 2 [ADD]: Determine the total number of students in the grade at the end of the year.",True,True,False
+126,"Step 1 [SUBTRACT]: Determine the number of books Roger is left with after the librarian takes some.
+Step 2 [DIVIDE]: Determine the number of shelves needed based on the capacity of each shelf.",True,True,False
+127,"Step 1 [ADD]: Determine the total number of flowers picked by combining the tulips and roses.
+Step 2 [SUBTRACT]: Determine the number of extra flowers picked by subtracting the used flowers from the total picked.",True,True,False
+128,"Step 1 [ADD]: Determine the total number of pieces of furniture Emily purchased.
+Step 2 [MULTIPLY]: Determine the total time spent assembling all the furniture.",True,True,False
+129,"Step 1 [MULTIPLY]: Determine the total number of parrots across all cages.
+Step 2 [MULTIPLY]: Determine the total number of parakeets across all cages.
+Step 3 [ADD]: Combine the total number of parrots and parakeets to find the overall total of birds in the pet store.",True,True,False
+130,"Step 1 [ADD]: Determine the total number of shirts Dave had to wash by combining the short sleeve and long sleeve shirts.
+Step 2 [SUBTRACT]: Determine the number of shirts Dave did not wash by subtracting the number of shirts already washed from the total number of shirts.",True,True,False
+131,"Step 1 [ADD]: Determine the total number of vacation pictures taken by combining the zoo and museum photographs.
+Step 2 [SUBTRACT]: Determine the number of vacation pictures remaining after the deletions.",True,True,False
+132,"Step 1 [SUBTRACT]: Determine the remaining roses after the initial sale.
+Step 2 [ADD]: Combine the remaining roses with the newly picked roses to find the total.",True,True,False
+133,"Step 1 [ADD]: Determine the total number of sodas purchased by combining the regular and diet sodas.
+Step 2 [DIVIDE]: Determine the number of shelves required by dividing the total number of sodas by the capacity of each shelf.",True,True,False
+134,"Step 1 [ADD]: Determine the total number of students on the debate team by combining the number of boys and girls.
+Step 2 [DIVIDE]: Determine the number of groups that can be formed by dividing the total number of students by the size of each group.",True,True,False
+135,"Step 1 [ADD]: Determine the total number of apples ordered by the cafeteria.
+Step 2 [SUBTRACT]: Determine the number of extra apples the cafeteria ended up with by comparing the total apples to the number of students who wanted fruit.",True,True,False
+136,"Step 1 [ADD]: Determine the total number of people participating in the game.
+Step 2 [DIVIDE]: Determine the number of people on each team by distributing the total evenly among the teams.",True,True,False
+137,"Step 1 [SUBTRACT]: Determine the remaining books in the bin after some are sold.
+Step 2 [ADD]: Determine the total number of books in the bin after adding the new books.",True,True,False
+138,"Step 1 [SUBTRACT]: Determine the amount of money Mike has left after purchasing the new mower blades.
+Step 2 [DIVIDE]: Determine the number of games Mike can buy with the remaining money.",True,True,False
+139,"Step 1 [SUBTRACT]: Determine the number of potatoes remaining to be cooked.
+Step 2 [MULTIPLY]: Calculate the total cooking time required for the remaining potatoes.",True,True,False
+140,"Step 1 [ADD]: Determine the total number of math and science problems combined.
+Step 2 [SUBTRACT]: Determine the number of problems remaining to be completed for homework.",True,True,False
+141,"Step 1 [MULTIPLY]: Calculate the total cost of the roses.
+Step 2 [MULTIPLY]: Calculate the total cost of the daisies.
+Step 3 [ADD]: Combine the cost of the roses and the daisies to determine the total amount spent.",True,True,False
+142,"Step 1 [ADD]: Determine the total number of pictures uploaded by combining the pictures from the phone and the camera.
+Step 2 [DIVIDE]: Determine the number of pictures in each album by distributing the total number of pictures equally among the given number of albums.",True,True,False
+143,"Step 1 [ADD]: Determine the total number of cookies available by combining the chocolate chip and oatmeal cookies.
+Step 2 [DIVIDE]: Calculate the number of baggies that can be made by dividing the total number of cookies by the number of cookies per bag.",True,True,False
+144,"Step 1 [ADD]: Determine the total amount of money Cody has after receiving the birthday gift.
+Step 2 [SUBTRACT]: Determine the final amount of money Cody has after purchasing the new game.",True,True,False
+145,"Step 1 [ADD]: Determine the total number of pictures uploaded to Facebook by combining the pictures from the phone and the camera.
+Step 2 [DIVIDE]: Determine the number of pictures in each album by distributing the total number of pictures equally among the given number of albums.",True,True,False
+146,"Step 1 [ADD]: Determine the total amount of candy combined by adding the candy each person received.
+Step 2 [SUBTRACT]: Determine the remaining pieces of candy after they ate some the first night.",True,True,False
+147,"Step 1 [SUBTRACT]: Determine the remaining number of puppies after the initial sales.
+Step 2 [DIVIDE]: Calculate the total number of cages required by distributing the remaining puppies into groups of the specified size.",True,True,False
+148,"Step 1 [ADD]: Determine the total number of trays Jerry needs to carry.
+Step 2 [DIVIDE]: Determine the number of trips Jerry will make based on the total trays and his carrying capacity.",True,True,False
+149,"Step 1 [MULTIPLY]: Calculate the score earned from the first level's treasures.
+Step 2 [MULTIPLY]: Calculate the score earned from the second level's treasures.
+Step 3 [ADD]: Combine the scores from both levels to determine the total score.",True,True,False
+150,"Step 1 [SUBTRACT]: Determine the remaining carrots after discarding the damaged ones.
+Step 2 [ADD]: Combine the remaining carrots with the newly picked carrots to find the total.",True,True,False
+151,"Step 1 [SUBTRACT]: Determine the number of files remaining after the deletion.
+Step 2 [DIVIDE]: Determine the number of folders by distributing the remaining files into groups of the specified size.",True,True,False
+152,"Step 1 [ADD]: Determine the total number of players by combining the new players and the returning players.
+Step 2 [DIVIDE]: Determine the total number of groups by dividing the total number of players by the number of players per group.",True,True,False
+153,"Step 1 [SUBTRACT]: Determine the amount of money Will has left after purchasing the new mower blades.
+Step 2 [DIVIDE]: Determine the number of games Will can buy with the remaining money.",True,True,False
+154,"Step 1 [SUBTRACT]: Determine the total number of carrots remaining after discarding the damaged ones.
+Step 2 [ADD]: Combine the remaining carrots with the newly picked carrots to find the final total.",True,True,False
+155,"Step 1 [ADD]: Determine the total amount of money Roger has after receiving the birthday gift.
+Step 2 [SUBTRACT]: Determine the final amount of money Roger has after purchasing the new game.",True,True,False
+156,"Step 1 [ADD]: Determine the total number of bags filled over the weekend.
+Step 2 [MULTIPLY]: Determine the total number of cans collected by multiplying the total number of bags by the number of cans per bag.",True,True,False
+157,"Step 1 [MULTIPLY]: Determine the total number of problems on all the worksheets.
+Step 2 [MULTIPLY]: Determine the total number of problems on the worksheets that have already been graded.
+Step 3 [SUBTRACT]: Determine the number of problems remaining to be graded.",True,True,False
+158,"Step 1 [MULTIPLY]: Determine the total number of scarves found in all the boxes.
+Step 2 [MULTIPLY]: Determine the total number of mittens found in all the boxes.
+Step 3 [ADD]: Determine the total number of pieces of winter clothing by combining the scarves and mittens.",True,True,False
+159,"Step 1 [SUBTRACT]: Determine the number of potatoes remaining to be cooked.
+Step 2 [MULTIPLY]: Calculate the total time required to cook the remaining potatoes.",True,True,False
+160,"Step 1 [SUBTRACT]: Determine the number of games remaining after the initial sales.
+Step 2 [DIVIDE]: Determine the total number of boxes required to pack the remaining games.",True,True,False
+161,"Step 1 [MULTIPLY]: Determine the total cost of the roses.
+Step 2 [MULTIPLY]: Determine the total cost of the daisies.
+Step 3 [ADD]: Determine the total amount spent by combining the cost of the roses and the daisies.",True,True,False
+162,"Step 1 [SUBTRACT]: Determine the remaining number of puppies after the initial sales.
+Step 2 [DIVIDE]: Determine the total number of cages required by distributing the remaining puppies into groups of two.",True,True,False
+163,"Step 1 [ADD]: Determine the total number of carrots picked by Faye and her mother.
+Step 2 [SUBTRACT]: Determine the total number of bad carrots by subtracting the number of good carrots from the total picked.",True,True,False
+164,"Step 1 [SUBTRACT]: Determine the total number of flowers remaining after accounting for the wilted ones.
+Step 2 [DIVIDE]: Calculate the number of bouquets that can be made using the remaining flowers.",True,True,False
+165,"Step 1 [MULTIPLY]: Determine the total number of tickets used for the Ferris wheel rides.
+Step 2 [MULTIPLY]: Determine the total number of tickets used for the bumper car rides.
+Step 3 [ADD]: Combine the tickets used for both ride types to find the total.",True,True,False
+166,"Step 1 [ADD]: Determine the total number of pieces of furniture Wendy purchased.
+Step 2 [MULTIPLY]: Determine the total time spent assembling all the furniture.",True,True,False
+167,"Step 1 [ADD]: Determine the total number of games Ned purchased by combining the games bought from the friend and the games bought at the garage sale.
+Step 2 [SUBTRACT]: Determine the number of good games Ned ended up with by subtracting the number of non-working games from the total number of games purchased.",True,True,False
+168,"Step 1 [ADD]: Determine the total number of cats in the pet store by combining the number of Siamese cats and the number of house cats.
+Step 2 [SUBTRACT]: Determine the number of cats remaining in the pet store after the sale by subtracting the number of sold cats from the total number of cats.",True,True,False
+169,"Step 1 [ADD]: Determine the total points accumulated across the first two rounds.
+Step 2 [SUBTRACT]: Determine the final score by removing the points lost in the last round from the accumulated total.",True,True,False
+170,"Step 1 [MULTIPLY]: Determine the total number of chocolate pieces in all the boxes.
+Step 2 [SUBTRACT]: Determine the number of chocolate pieces Dave still has after giving some to his brother.",True,True,False
+171,"Step 1 [ADD]: Determine the total number of customers the waiter had to wait on during the lunch rush.
+Step 2 [SUBTRACT]: Determine the number of customers who left a tip by subtracting the number of customers without tips from the total number of customers.",True,True,False
+172,"Step 1 [SUBTRACT]: Determine the remaining apples available for making pies after distributing some to students.
+Step 2 [DIVIDE]: Calculate the total number of pies that can be made using the remaining apples.",True,True,False
+173,"Step 1 [SUBTRACT]: Determine the remaining amount of money Oliver has after spending the specified amount.
+Step 2 [ADD]: Calculate the total amount of money Oliver has after receiving the additional amount from his mom.",True,True,False
+174,"Step 1 [SUBTRACT]: Determine the remaining apples after using some for lunch.
+Step 2 [ADD]: Determine the total number of apples after purchasing additional ones.",True,True,False
+175,"Step 1 [ADD]: Determine the total number of questions answered correctly across both halves of the game.
+Step 2 [MULTIPLY]: Calculate the final score by multiplying the total number of correct answers by the point value per question.",True,True,False
+176,"Step 1 [MULTIPLY]: Determine the total number of scarves found in all the boxes.
+Step 2 [MULTIPLY]: Determine the total number of mittens found in all the boxes.
+Step 3 [ADD]: Determine the total number of pieces of winter clothing by combining the scarves and mittens.",True,True,False
+177,"Step 1 [MULTIPLY]: Calculate the total cost of the decks Frank purchased.
+Step 2 [MULTIPLY]: Calculate the total cost of the decks his friend purchased.
+Step 3 [ADD]: Combine the costs of both Frank's and his friend's decks to find the total amount spent.",True,True,False
+178,"Step 1 [ADD]: Determine the total number of shirts Sam had to wash by combining the short sleeve and long sleeve shirts.
+Step 2 [SUBTRACT]: Determine the number of shirts Sam did not wash by subtracting the number of shirts he had already washed from the total number of shirts.",True,True,False
+179,"Step 1 [SUBTRACT]: Determine the remaining customers after some left.
+Step 2 [ADD]: Determine the total number of customers after receiving new ones.",True,True,False

@@ -1,0 +1,25 @@
+{
+  "SVAMP": {
+    "n": 300,
+    "plan_format_ok": 0.99,
+    "plan_ops_valid": 0.9866666666666667,
+    "plan_has_math": 0.0,
+    "planner_lat": 5.011506900787354,
+    "general_baseline": 0.6333333333333333,
+    "general_guided": 0.65,
+    "general_delta": 0.016666666666666666,
+    "general_go": 50,
+    "general_bo": 45,
+    "general_p": 0.6817425059181855,
+    "general_n": 300,
+    "general_exec_lat": 6.2604074287414555,
+    "general_alone_lat": 8.86883339881897,
+    "twoslm_lat": 11.271914329528808,
+    "slm1_acc": 0.73,
+    "slm1_n": 300,
+    "slm1_strategies": {
+      "hash": 300
+    },
+    "slm1_lat": 1.6364052391052246
+  }
+}
